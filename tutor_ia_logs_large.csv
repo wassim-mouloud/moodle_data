@@ -1,0 +1,621 @@
+1,Antoine,Leroy,antoine.leroy@univ-amu.fr,Introduction a la Programmation Python,11,condition if, compréhension liste, héritage, liste python, boucle for, pandas dataframe, import module, polymorphisme,51792,2353,0,2026-06-02 19:21:45
+2,Sarah,Roux,sarah.roux@univ-amu.fr,Bases de Données et SQL,16,trigger,75561,2253,0,2026-06-02 10:04:12
+3,Julien,Petit,julien.petit@univ-amu.fr,Systèmes d'exploitation Linux,11,commande ls, volume montage, ssh connexion, variable environnement, grep recherche, processus kill, réseau ifconfig, pipe redirection,8306,89,0,2026-06-01 19:14:45
+4,Thomas,Bernard,thomas.bernard@univ-amu.fr,R2.08 - Stats (Copie Test IA),13,fréquence relative, médiane, tableau données, exercice, calcul somme, cours statistiques, diagramme,1083,879,0,2026-06-01 17:30:58
+5,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,2,probabilité,60327,207,15,2026-06-01 09:39:51
+6,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),10,fréquence relative,31189,1758,5,2026-06-01 07:56:28
+7,Nicolas,Garcia,nicolas.garcia@dreamu.local,Systèmes d'exploitation Linux,5,processus kill, réseau ifconfig, vim éditeur, crontab planifier, sed awk, docker container, utilisateur groupe, ssh connexion,16108,941,0,2026-05-30 20:03:18
+8,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,5,async await, formulaire, useState hook, grid layout, React composant,46351,1270,20,2026-05-30 15:18:18
+9,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,13,DHCP configuration, socket programmation, CIDR notation, masque sous-réseau, protocole TCP,75463,1470,0,2026-05-30 10:45:12
+10,Maxime,Fournier,maxime.fournier@univ-amu.fr,Introduction a la Programmation Python,11,fonction python, polymorphisme, syntaxe python, héritage, numpy array,55860,411,10,2026-05-30 10:19:33
+11,Alain,Casali,alain.casali@dreamu.local,Bases de Données et SQL,9,trigger, jointure SQL, clé primaire,6465,223,0,2026-05-29 20:24:04
+12,Nicolas,Garcia,nicolas.garcia@dreamu.local,Systèmes d'exploitation Linux,17,pipe redirection,55639,1517,15,2026-05-29 13:30:08
+13,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,13,données aberrantes, boîte moustache,74695,756,15,2026-05-29 09:57:42
+14,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,13,permutations, loi normale, logarithme, intégrale calcul, déterminant,60661,2314,0,2026-05-29 09:42:48
+15,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,20,moyenne pondérée, régression linéaire,19856,1178,0,2026-05-28 17:38:24
+16,Lucie,Moreau,lucie.moreau@univ-amu.fr,Algorithmes et Structures de Données,19,heap priorité, tri fusion, liste chaînée, récursion, memoization, tri rapide, pile queue, recherche binaire,8169,598,0,2026-05-28 08:51:58
+17,Alain,Casali,alain.casali@dreamu.local,Bases de Données et SQL,14,procédure stockée, jointure SQL, normalisation, select where, index performance,64538,2274,10,2026-05-27 13:56:44
+18,Antoine,Leroy,antoine.leroy@univ-amu.fr,Mathematiques - Terminale,16,exponentielle, permutations, intégrale calcul, dérivée fonction, espérance,48810,463,0,2026-05-27 07:54:03
+19,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,3,tri fusion, memoization, graphe parcours, recherche binaire, arbre binaire,43058,1976,0,2026-05-26 15:29:31
+20,Chloé,Michel,chloe.michel@univ-amu.fr,Mathematiques - Terminale,19,convergence,69830,359,0,2026-05-26 14:43:23
+21,Thomas,Bernard,thomas.bernard@univ-amu.fr,Introduction a la Programmation Python,8,polymorphisme, exception, numpy array, variable, liste python, générateur, import module,67435,2124,0,2026-05-26 14:29:48
+22,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,11,histogramme classes, variance, données aberrantes, percentile,39962,1111,5,2026-05-26 11:51:20
+23,Wassim,Admin,wassim@local.test,R2.08 - Stats (Copie Test IA),13,exercice, effectif cumulé,43554,523,5,2026-05-25 19:31:32
+24,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,3,régression linéaire, médiane calcul, moyenne pondérée, visualisation données, boîte moustache, histogramme classes, test chi-deux,33100,645,0,2026-05-25 14:28:02
+25,Antoine,Leroy,antoine.leroy@univ-amu.fr,Systèmes d'exploitation Linux,1,processus kill, volume montage, commande ls, partition disque, vim éditeur, chmod permissions,54403,400,0,2026-05-25 12:19:08
+26,Nicolas,Garcia,nicolas.garcia@dreamu.local,Réseaux Informatiques,20,DNS résolution, VLAN switch, ping traceroute, VPN tunnel, routage OSPF, socket programmation, Wireshark capture, CIDR notation,67452,1083,0,2026-05-25 11:10:22
+27,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,12,écart-type,66407,434,0,2026-05-25 10:51:08
+28,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,10,utilisateur groupe, variable environnement, systemd service, apt install,6657,1562,0,2026-05-25 10:02:57
+29,Camille,Martin,camille.martin@univ-amu.fr,Réseaux Informatiques,5,HTTP HTTPS, VPN tunnel, QoS bande passante, firewall règles, NAT translation,74705,1987,10,2026-05-24 16:50:42
+30,Julien,Petit,julien.petit@univ-amu.fr,Réseaux Informatiques,5,DNS résolution, DHCP configuration, NAT translation,6093,1734,0,2026-05-24 12:11:27
+31,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,19,formulaire, DOM manipulation, useState hook, balise HTML, SEO balises,32708,2045,0,2026-05-24 11:13:59
+32,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,6,vecteurs,69212,1557,0,2026-05-23 09:50:04
+33,Sarah,Roux,sarah.roux@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,14,moyenne pondérée, histogramme classes, variance,77930,1977,10,2026-05-22 12:04:56
+34,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,13,lambda, numpy array, import module, compréhension liste, boucle for, fonction python,48119,2101,10,2026-05-22 08:33:57
+35,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,19,régression linéaire, intervalle confiance,76490,1335,0,2026-05-21 18:43:22
+36,Thomas,Bernard,thomas.bernard@univ-amu.fr,Algorithmes et Structures de Données,4,recherche binaire,3460,1405,5,2026-05-21 17:23:45
+37,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,8,tableau croisé,29756,571,5,2026-05-21 16:17:46
+38,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,1,moyenne pondérée, corrélation, graphique barres, régression linéaire, tableau croisé, variance,11456,2205,10,2026-05-21 15:41:17
+39,Lucie,Moreau,lucie.moreau@univ-amu.fr,Algorithmes et Structures de Données,11,recherche binaire, hash table, tri fusion, memoization,7684,2108,15,2026-05-21 11:13:17
+40,Camille,Martin,camille.martin@univ-amu.fr,Introduction a la Programmation Python,8,exception, condition if, fonction python, décorateur,47127,1623,0,2026-05-21 10:48:23
+41,Alain,Casali,alain.casali@dreamu.local,Introduction a la Programmation Python,19,héritage, exception, lambda, import module, liste python, fonction python, tuple,77455,84,20,2026-05-20 17:07:06
+42,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,18,protocole TCP, VLAN switch,18281,1591,0,2026-05-19 20:23:04
+43,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,12,chmod permissions, processus kill, crontab planifier, commande ls,5313,595,10,2026-05-18 14:51:30
+44,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,18,utilisateur groupe,43707,500,0,2026-05-17 19:25:23
+45,Antoine,Leroy,antoine.leroy@univ-amu.fr,Systèmes d'exploitation Linux,3,sed awk, partition disque, grep recherche, apt install, docker container,32642,1935,5,2026-05-16 20:28:35
+46,Maxime,Fournier,maxime.fournier@univ-amu.fr,Mathematiques - Terminale,10,matrice inverse, permutations, vecteurs, produit scalaire, déterminant,3262,142,10,2026-05-16 17:22:11
+47,Nicolas,Garcia,nicolas.garcia@dreamu.local,Algorithmes et Structures de Données,3,BFS DFS, récursion, recherche binaire,52507,1490,0,2026-05-16 09:36:40
+48,Emma,Laurent,emma.laurent@univ-amu.fr,Développement Web - HTML/CSS/JS,6,bootstrap framework, props enfant, webpack bundle, DOM manipulation, responsive design,3527,512,5,2026-05-16 09:29:50
+49,Morgan,Morancey,morgan.morancey@univ-amu.fr,Bases de Données et SQL,17,clé étrangère, MariaDB MySQL, trigger, insert update delete, union intersect,1525,2271,0,2026-05-16 08:13:51
+50,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,18,CSS variable, événement JS, bootstrap framework, accessibilité ARIA, responsive design, React composant,4034,1613,0,2026-05-16 03:36:20
+51,Nicolas,Garcia,nicolas.garcia@dreamu.local,Systèmes d'exploitation Linux,18,crontab planifier, bash script, processus kill, systemd service, docker container, pipe redirection, commande ls,66472,481,0,2026-05-15 08:59:04
+52,Sarah,Roux,sarah.roux@univ-amu.fr,R2.08 - Stats (Copie Test IA),19,médiane, exercice, tableau données, effectif cumulé, cours statistiques, diagramme, calcul somme, fréquence relative,23260,525,0,2026-05-14 14:32:50
+53,Hugo,Simon,hugo.simon@univ-amu.fr,Mathematiques - Terminale,18,convergence, probabilité,51006,776,0,2026-05-14 09:31:58
+54,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,10,argument fonction, générateur, indentation, boucle for, import module, while boucle, héritage,26805,1111,0,2026-05-13 20:47:08
+55,Léa,Dupont,lea.dupont@univ-amu.fr,Algorithmes et Structures de Données,1,Big O, tri rapide, liste chaînée, heap priorité, tri fusion, graphe parcours, pile queue, récursion,78738,1943,0,2026-05-13 16:33:02
+56,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,17,régression linéaire,44524,1686,0,2026-05-13 15:07:51
+57,Sarah,Roux,sarah.roux@univ-amu.fr,Développement Web - HTML/CSS/JS,14,flexbox CSS, formulaire, accessibilité ARIA, bootstrap framework, fetch API, grid layout,58261,188,0,2026-05-13 10:47:46
+58,Wassim,Admin,wassim@local.test,Bases de Données et SQL,6,clé primaire, transaction ACID, index performance, group by, ORM Django, insert update delete,79457,626,10,2026-05-13 07:47:12
+59,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,3,async await, bootstrap framework, fetch API,58582,2254,0,2026-05-12 23:25:51
+60,Antoine,Leroy,antoine.leroy@univ-amu.fr,Bases de Données et SQL,18,index performance,46876,1768,5,2026-05-12 18:41:41
+61,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,2,récursion, recherche binaire, BFS DFS, tri rapide, hash table, liste chaînée, memoization, complexité algorithme,53650,484,0,2026-05-12 15:19:23
+62,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,10,utilisateur groupe, ssh connexion, partition disque, bash script, docker container, réseau ifconfig,45758,543,20,2026-05-11 21:14:39
+63,Thomas,Bernard,thomas.bernard@univ-amu.fr,Mathematiques - Terminale,11,convergence, matrice inverse, espérance, dérivée fonction, système équations, déterminant, vecteurs, exponentielle,58200,1371,0,2026-05-11 21:06:11
+64,Sarah,Roux,sarah.roux@univ-amu.fr,Mathematiques - Terminale,17,combinaisons, permutations, espérance, convergence, logarithme, vecteurs,62740,2299,10,2026-05-11 01:54:56
+65,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,9,percentile, histogramme classes, variance, test chi-deux, graphique barres, régression linéaire,51056,1958,10,2026-05-10 18:41:15
+66,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,16,p-valeur, percentile, variance, visualisation données,63286,863,0,2026-05-10 17:53:35
+67,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,15,pandas dataframe, fichier lecture,5857,1497,0,2026-05-10 14:24:25
+68,Léa,Dupont,lea.dupont@univ-amu.fr,Réseaux Informatiques,14,VPN tunnel,24090,554,10,2026-05-09 20:02:43
+69,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,20,percentile, nuage points, variance, intervalle confiance, histogramme classes, boîte moustache, corrélation, moyenne pondérée,14753,1552,0,2026-05-09 15:44:03
+70,Chloé,Michel,chloe.michel@univ-amu.fr,Algorithmes et Structures de Données,2,graphe parcours, pile queue, recherche binaire, BFS DFS, complexité algorithme, Big O, heap priorité, hash table,68260,582,0,2026-05-09 12:06:09
+71,Maxime,Fournier,maxime.fournier@univ-amu.fr,Développement Web - HTML/CSS/JS,6,React composant, responsive design, fetch API, formulaire, balise HTML,58020,1299,15,2026-05-09 11:31:05
+72,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,2,lambda, générateur, pip install,17045,275,0,2026-05-09 11:21:13
+73,Camille,Martin,camille.martin@univ-amu.fr,Mathematiques - Terminale,9,vecteurs, exponentielle, complexes, dérivée fonction, intégrale calcul,50702,562,0,2026-05-08 18:57:20
+74,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,19,crontab planifier, processus kill, volume montage,5899,116,0,2026-05-08 16:46:55
+75,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,8,volume montage, partition disque, bash script, ssh connexion,63667,1416,5,2026-05-08 11:19:22
+76,Léa,Dupont,lea.dupont@univ-amu.fr,Réseaux Informatiques,19,DNS résolution, adresse IP, HTTP HTTPS, socket programmation, UDP,25818,718,5,2026-05-07 18:21:21
+77,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,15,nuage points, régression linéaire, histogramme classes,50235,1105,20,2026-05-07 15:13:48
+78,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Stats (Copie Test IA),4,médiane, exercice, fréquence relative, calcul somme,48549,153,0,2026-05-07 10:13:30
+79,Hugo,Simon,hugo.simon@univ-amu.fr,Mathematiques - Terminale,3,espérance, loi normale, exponentielle, convergence, vecteurs,24408,559,0,2026-05-06 12:16:13
+80,Antoine,Leroy,antoine.leroy@univ-amu.fr,Mathematiques - Terminale,3,loi normale, système équations, intégrale calcul, dérivée fonction, espérance,7955,888,20,2026-05-06 08:21:48
+81,Camille,Martin,camille.martin@univ-amu.fr,Réseaux Informatiques,14,QoS bande passante, VLAN switch, UDP, adresse IP,3633,954,0,2026-05-05 17:24:27
+82,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,9,commande ls,27119,1814,10,2026-05-05 15:20:12
+83,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,3,React composant, fetch API,11252,1097,0,2026-05-05 08:23:04
+84,Wassim,Admin,wassim@local.test,Bases de Données et SQL,5,clé étrangère,74728,1641,0,2026-05-04 21:35:27
+85,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,8,props enfant, événement JS, bootstrap framework,76782,166,0,2026-05-04 14:28:51
+86,Chloé,Michel,chloe.michel@univ-amu.fr,Algorithmes et Structures de Données,20,memoization, liste chaînée, pile queue, récursion, Big O, recherche binaire, complexité algorithme,74245,2033,0,2026-05-04 13:20:23
+87,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,2,indentation, return valeur, pandas dataframe, héritage,73598,1586,0,2026-05-03 20:04:13
+88,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,16,matrice inverse, dérivée fonction, intégrale calcul, convergence,10045,1865,0,2026-05-03 14:50:19
+89,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,17,vue SQL,25479,73,5,2026-05-02 16:08:43
+90,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),6,médiane, exercice,58184,1438,5,2026-05-02 16:07:48
+91,Maxime,Fournier,maxime.fournier@univ-amu.fr,Systèmes d'exploitation Linux,15,ssh connexion, pipe redirection, variable environnement, crontab planifier, docker container, apt install,72270,739,15,2026-05-02 15:55:46
+92,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,18,données aberrantes, distribution normale,67024,898,0,2026-05-02 15:04:11
+93,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Stats (Copie Test IA),5,exercice, fréquence relative,71097,804,0,2026-05-02 07:30:40
+94,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,17,bootstrap framework, flexbox CSS, async await,23916,2079,15,2026-05-01 10:13:12
+95,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,6,index performance, ORM Django, select where, jointure SQL, explain plan, group by, vue SQL,43578,1464,15,2026-04-30 10:39:41
+96,Alain,Casali,alain.casali@dreamu.local,Développement Web - HTML/CSS/JS,8,flexbox CSS, grid layout, accessibilité ARIA, animation keyframe, formulaire,46679,897,5,2026-04-30 09:07:30
+97,Sarah,Roux,sarah.roux@univ-amu.fr,Développement Web - HTML/CSS/JS,18,webpack bundle,522,372,10,2026-04-29 15:06:53
+98,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,2,sed awk, volume montage, réseau ifconfig, pipe redirection,29718,1861,0,2026-04-29 14:33:46
+99,Wassim,Admin,wassim@local.test,Algorithmes et Structures de Données,18,récursion, recherche binaire,69513,154,5,2026-04-29 08:28:14
+100,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,19,fetch API, accessibilité ARIA, React composant, grid layout, DOM manipulation, props enfant, flexbox CSS, async await,68240,2340,5,2026-04-29 08:21:52
+101,Antoine,Leroy,antoine.leroy@univ-amu.fr,Réseaux Informatiques,5,VLAN switch, routage OSPF, masque sous-réseau,64580,78,0,2026-04-29 05:38:44
+102,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,5,boîte moustache, courbe tendance, médiane calcul, données aberrantes,59872,2176,0,2026-04-28 14:32:54
+103,Wassim,Admin,wassim@local.test,Mathematiques - Terminale,18,produit scalaire, espérance, limite suite, matrice inverse, convergence, combinaisons,36472,512,5,2026-04-27 13:53:11
+104,Antoine,Leroy,antoine.leroy@univ-amu.fr,Mathematiques - Terminale,14,combinaisons, espérance, produit scalaire, trigonométrie,45623,365,0,2026-04-26 22:30:24
+105,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,5,médiane calcul, intervalle confiance, percentile, p-valeur,54627,835,0,2026-04-26 19:23:18
+106,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,6,procédure stockée, union intersect, insert update delete, trigger, MariaDB MySQL, transaction ACID, jointure SQL,36599,1650,0,2026-04-25 15:04:41
+107,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,10,SEO balises, balise HTML,15443,435,0,2026-04-25 09:18:29
+108,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,14,visualisation données, boîte moustache, corrélation, médiane calcul, quartile,13735,2131,0,2026-04-24 15:55:16
+109,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,8,balise HTML, React composant, props enfant, SEO balises, webpack bundle,18007,1958,0,2026-04-24 11:53:46
+110,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,14,bootstrap framework, responsive design, grid layout, SEO balises, fetch API,63971,1902,0,2026-04-24 08:29:00
+111,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,9,CSS variable, useState hook, événement JS, fetch API, props enfant, bootstrap framework, accessibilité ARIA, async await,11328,1738,0,2026-04-22 23:16:18
+112,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,1,loi normale, exponentielle, dérivée fonction, produit scalaire,62640,541,5,2026-04-22 17:02:56
+113,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Stats (Copie Test IA),16,effectif cumulé, exercice, diagramme, calcul somme,5475,369,0,2026-04-22 09:54:13
+114,Morgan,Morancey,morgan.morancey@univ-amu.fr,Systèmes d'exploitation Linux,1,pipe redirection, chmod permissions,12780,895,0,2026-04-22 03:13:16
+115,Nicolas,Garcia,nicolas.garcia@dreamu.local,Développement Web - HTML/CSS/JS,7,grid layout, événement JS, accessibilité ARIA, fetch API, flexbox CSS,68415,1171,0,2026-04-21 13:53:02
+116,Wassim,Admin,wassim@local.test,R2.08 - Outils numériques pour les statistiques descriptives,19,données aberrantes, boîte moustache, écart-type, courbe tendance, tableau croisé, quartile,72374,1331,0,2026-04-21 13:05:44
+117,Admin,User,admin@master.local,Bases de Données et SQL,13,zizi, oee fais, bonjour, test,28315,1570,5,2026-04-20 22:16:10
+118,Lucie,Moreau,lucie.moreau@univ-amu.fr,Systèmes d'exploitation Linux,8,ssh connexion, vim éditeur, sed awk, crontab planifier, commande ls, réseau ifconfig, utilisateur groupe, bash script,43399,1778,0,2026-04-18 20:42:40
+119,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,1,graphique barres,76769,2371,0,2026-04-18 09:32:13
+120,Thomas,Bernard,thomas.bernard@univ-amu.fr,Réseaux Informatiques,20,socket programmation, QoS bande passante, protocole TCP, DNS résolution, Wireshark capture, VLAN switch,23113,1218,15,2026-04-18 07:46:04
+121,Sarah,Roux,sarah.roux@univ-amu.fr,Mathematiques - Terminale,19,convergence, exponentielle, intégrale calcul, trigonométrie, combinaisons, produit scalaire,16650,1845,0,2026-04-17 20:49:29
+122,Nicolas,Garcia,nicolas.garcia@dreamu.local,Introduction a la Programmation Python,12,return valeur, syntaxe python, compréhension liste, polymorphisme, condition if,51945,914,15,2026-04-17 16:28:38
+123,Antoine,Leroy,antoine.leroy@univ-amu.fr,Bases de Données et SQL,13,procédure stockée, index performance, ORM Django, vue SQL, trigger,60938,990,5,2026-04-17 16:18:29
+124,Maxime,Fournier,maxime.fournier@univ-amu.fr,Systèmes d'exploitation Linux,7,bash script,66585,1944,0,2026-04-17 09:25:30
+125,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,17,utilisateur groupe, crontab planifier, processus kill, vim éditeur,58412,476,5,2026-04-15 13:19:49
+126,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,12,tri fusion, tri rapide, BFS DFS,20961,566,0,2026-04-15 09:05:04
+127,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,19,complexité algorithme, tri rapide, heap priorité, memoization, pile queue,34636,251,5,2026-04-13 09:39:55
+128,Antoine,Leroy,antoine.leroy@univ-amu.fr,Bases de Données et SQL,8,explain plan, ORM Django, vue SQL, procédure stockée,23186,319,5,2026-04-11 17:49:21
+129,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,13,formulaire, flexbox CSS, accessibilité ARIA, webpack bundle, bootstrap framework, DOM manipulation,51391,144,0,2026-04-11 17:49:18
+130,Nicolas,Garcia,nicolas.garcia@dreamu.local,Systèmes d'exploitation Linux,18,crontab planifier, docker container, réseau ifconfig, commande ls, apt install,19030,504,0,2026-04-11 14:07:27
+131,Emma,Laurent,emma.laurent@univ-amu.fr,Systèmes d'exploitation Linux,6,sed awk, grep recherche, variable environnement, docker container, crontab planifier, systemd service, volume montage, partition disque,44722,1727,5,2026-04-11 11:02:54
+132,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,16,dictionnaire, condition if, fichier lecture, classe objet, tuple, fonction python, liste python,40455,662,5,2026-04-10 16:20:03
+133,Morgan,Morancey,morgan.morancey@univ-amu.fr,Systèmes d'exploitation Linux,20,processus kill, grep recherche,9407,963,0,2026-04-10 09:45:34
+134,Nicolas,Garcia,nicolas.garcia@dreamu.local,Bases de Données et SQL,17,insert update delete, MariaDB MySQL, select where, jointure SQL, vue SQL, clé étrangère, ORM Django,36347,1078,0,2026-04-10 09:16:40
+135,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,9,intégrale calcul, probabilité, complexes, logarithme, déterminant, système équations,9175,864,15,2026-04-09 18:30:04
+136,Lucie,Moreau,lucie.moreau@univ-amu.fr,Systèmes d'exploitation Linux,9,grep recherche, variable environnement, utilisateur groupe, commande ls, ssh connexion, volume montage,54831,716,0,2026-04-09 16:21:49
+137,Wassim,Admin,wassim@local.test,R2.08 - Outils numériques pour les statistiques descriptives,6,test chi-deux, p-valeur, intervalle confiance, percentile,49003,1276,5,2026-04-09 14:21:19
+138,Lucie,Moreau,lucie.moreau@univ-amu.fr,Réseaux Informatiques,3,adresse IP, protocole TCP, firewall règles, VLAN switch,78997,1481,0,2026-04-08 12:32:14
+139,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,2,DHCP configuration, adresse IP,44213,997,20,2026-04-08 09:14:53
+140,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,15,utilisateur groupe, ssh connexion, systemd service, volume montage, variable environnement, docker container, chmod permissions, apt install,69728,1481,0,2026-04-08 08:26:01
+141,Emma,Laurent,emma.laurent@univ-amu.fr,Systèmes d'exploitation Linux,19,volume montage, bash script, apt install, sed awk, vim éditeur,33286,1813,20,2026-04-07 13:06:42
+142,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,12,async await, props enfant, CSS variable,6430,1640,0,2026-04-07 09:30:45
+143,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,6,variable environnement, volume montage, apt install, bash script, chmod permissions, commande ls,65910,2120,0,2026-04-07 08:10:08
+144,Wassim,Admin,wassim@local.test,Réseaux Informatiques,9,protocole TCP, couche OSI, NAT translation, masque sous-réseau,75748,926,10,2026-04-06 21:34:45
+145,Lucie,Moreau,lucie.moreau@univ-amu.fr,Bases de Données et SQL,12,trigger,46552,1261,20,2026-04-06 07:12:24
+146,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,8,CSS variable, fetch API, formulaire, useState hook, props enfant, flexbox CSS, grid layout, DOM manipulation,23553,2121,0,2026-04-05 09:23:54
+147,Antoine,Leroy,antoine.leroy@univ-amu.fr,Introduction a la Programmation Python,3,décorateur, syntaxe python, lambda,39978,1424,0,2026-04-05 09:14:15
+148,Nicolas,Garcia,nicolas.garcia@dreamu.local,Bases de Données et SQL,3,group by,7613,729,10,2026-04-05 07:43:18
+149,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,19,sous-requête, vue SQL, explain plan, jointure SQL,29502,597,0,2026-04-03 19:14:15
+150,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Stats (Copie Test IA),14,calcul somme, fréquence relative, tableau données, exercice, diagramme, cours statistiques, effectif cumulé,14144,683,10,2026-04-02 11:02:58
+151,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Stats (Copie Test IA),19,exercice, calcul somme, médiane, fréquence relative,7628,2248,0,2026-04-02 07:14:43
+152,Morgan,Morancey,morgan.morancey@univ-amu.fr,Algorithmes et Structures de Données,13,arbre binaire, graphe parcours, hash table,23310,2331,0,2026-04-01 17:08:41
+153,Chloé,Michel,chloe.michel@univ-amu.fr,Réseaux Informatiques,15,DHCP configuration, CIDR notation, Wireshark capture, QoS bande passante,10907,26,0,2026-04-01 10:35:36
+154,Chloé,Michel,chloe.michel@univ-amu.fr,Mathematiques - Terminale,1,loi normale,60615,2038,10,2026-03-31 17:47:52
+155,Julien,Petit,julien.petit@univ-amu.fr,Réseaux Informatiques,16,VPN tunnel, socket programmation,64606,1085,0,2026-03-31 11:37:19
+156,Emma,Laurent,emma.laurent@univ-amu.fr,R2.08 - Stats (Copie Test IA),12,diagramme, médiane, fréquence relative,43124,1950,0,2026-03-29 19:36:34
+157,Morgan,Morancey,morgan.morancey@univ-amu.fr,Systèmes d'exploitation Linux,9,variable environnement, ssh connexion,6317,1786,0,2026-03-29 15:44:10
+158,Hugo,Simon,hugo.simon@univ-amu.fr,Mathematiques - Terminale,2,logarithme,40448,2147,0,2026-03-29 14:30:35
+159,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Stats (Copie Test IA),15,médiane, diagramme, tableau données, effectif cumulé, fréquence relative,34112,1962,0,2026-03-29 10:54:36
+160,Morgan,Morancey,morgan.morancey@univ-amu.fr,Bases de Données et SQL,9,insert update delete, union intersect, MariaDB MySQL, group by,18801,1010,5,2026-03-29 10:37:56
+161,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,4,réseau ifconfig, sed awk, apt install, crontab planifier, partition disque, bash script,25742,1292,0,2026-03-28 20:36:50
+162,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,14,compréhension liste, générateur, pandas dataframe, indentation, exception, numpy array,20058,1228,0,2026-03-28 13:51:17
+163,Nicolas,Garcia,nicolas.garcia@dreamu.local,Systèmes d'exploitation Linux,3,vim éditeur, chmod permissions, docker container, sed awk, volume montage, bash script, processus kill, apt install,13077,685,20,2026-03-28 13:17:19
+164,Morgan,Morancey,morgan.morancey@univ-amu.fr,Introduction a la Programmation Python,11,boucle for, pandas dataframe,14822,1018,0,2026-03-28 12:32:43
+165,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,5,MariaDB MySQL, union intersect, schéma entité, select where, vue SQL, explain plan, procédure stockée,46082,485,0,2026-03-28 11:36:43
+166,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,20,props enfant, webpack bundle,35171,177,5,2026-03-28 08:00:29
+167,Hugo,Simon,hugo.simon@univ-amu.fr,Réseaux Informatiques,19,QoS bande passante, DNS résolution, Wireshark capture,57513,2144,5,2026-03-27 10:13:43
+168,Morgan,Morancey,morgan.morancey@univ-amu.fr,Algorithmes et Structures de Données,3,tri rapide, arbre binaire, memoization, tri fusion,64199,283,20,2026-03-26 16:10:52
+169,Lucie,Moreau,lucie.moreau@univ-amu.fr,Algorithmes et Structures de Données,17,pile queue, tri rapide, tri fusion, liste chaînée, hash table, BFS DFS, récursion,69533,502,0,2026-03-26 15:42:32
+170,Alain,Casali,alain.casali@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,12,histogramme classes, quartile, médiane calcul, moyenne pondérée, percentile, test chi-deux, nuage points, boîte moustache,49631,1764,0,2026-03-26 12:49:44
+171,Morgan,Morancey,morgan.morancey@univ-amu.fr,Systèmes d'exploitation Linux,2,volume montage,7072,2392,0,2026-03-26 08:27:15
+172,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,7,BFS DFS, récursion, complexité algorithme, arbre binaire, heap priorité, recherche binaire,18602,1265,5,2026-03-23 19:13:15
+173,Nicolas,Garcia,nicolas.garcia@dreamu.local,Réseaux Informatiques,13,VLAN switch, socket programmation,17829,444,0,2026-03-23 18:01:22
+174,Wassim,Admin,wassim@local.test,Bases de Données et SQL,2,schéma entité, clé étrangère,32972,1793,20,2026-03-23 13:40:22
+175,Hugo,Simon,hugo.simon@univ-amu.fr,Systèmes d'exploitation Linux,19,crontab planifier, utilisateur groupe, vim éditeur, apt install, bash script, systemd service, ssh connexion,26203,2298,5,2026-03-23 09:20:36
+176,Léa,Dupont,lea.dupont@univ-amu.fr,Algorithmes et Structures de Données,14,récursion,23996,438,15,2026-03-23 08:37:34
+177,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,2,clé primaire, normalisation, union intersect, procédure stockée, jointure SQL, explain plan,18461,1364,10,2026-03-21 12:31:54
+178,Sarah,Roux,sarah.roux@univ-amu.fr,Bases de Données et SQL,9,transaction ACID, ORM Django, select where, vue SQL, clé étrangère, normalisation, insert update delete, union intersect,71309,1158,0,2026-03-20 17:33:26
+179,Camille,Martin,camille.martin@univ-amu.fr,Systèmes d'exploitation Linux,10,utilisateur groupe, processus kill, volume montage, réseau ifconfig, crontab planifier,75569,1095,20,2026-03-19 22:41:42
+180,Nicolas,Garcia,nicolas.garcia@dreamu.local,Systèmes d'exploitation Linux,12,docker container, ssh connexion,28252,1690,15,2026-03-19 08:20:14
+181,Camille,Martin,camille.martin@univ-amu.fr,Systèmes d'exploitation Linux,5,pipe redirection, variable environnement, grep recherche, volume montage, apt install, utilisateur groupe, docker container,36868,342,0,2026-03-18 19:42:18
+182,Morgan,Morancey,morgan.morancey@univ-amu.fr,Algorithmes et Structures de Données,15,arbre binaire, graphe parcours, memoization, heap priorité, liste chaînée,58405,1811,5,2026-03-18 13:29:13
+183,Sarah,Roux,sarah.roux@univ-amu.fr,Bases de Données et SQL,5,explain plan, transaction ACID, procédure stockée, normalisation, clé étrangère, clé primaire, schéma entité,18611,1690,5,2026-03-18 10:55:55
+184,Maxime,Fournier,maxime.fournier@univ-amu.fr,Algorithmes et Structures de Données,16,recherche binaire, Big O, hash table, graphe parcours, liste chaînée,79558,1656,20,2026-03-18 10:43:43
+185,Julien,Petit,julien.petit@univ-amu.fr,Réseaux Informatiques,19,VLAN switch, adresse IP, NAT translation, HTTP HTTPS, masque sous-réseau, ping traceroute,65263,610,15,2026-03-18 07:26:22
+186,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,13,volume montage, utilisateur groupe, processus kill,39721,1377,0,2026-03-17 13:52:47
+187,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,9,dérivée fonction, système équations, logarithme, déterminant,9599,1143,0,2026-03-17 11:00:18
+188,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,20,React composant,41453,1440,0,2026-03-17 09:25:39
+189,Thomas,Bernard,thomas.bernard@univ-amu.fr,Bases de Données et SQL,5,insert update delete,26075,1572,20,2026-03-16 15:01:25
+190,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),12,calcul somme, médiane, effectif cumulé, exercice, cours statistiques,60591,347,0,2026-03-16 08:55:41
+191,Nicolas,Garcia,nicolas.garcia@dreamu.local,Algorithmes et Structures de Données,19,memoization, arbre binaire, BFS DFS, graphe parcours,1109,1069,0,2026-03-16 08:28:51
+192,Wassim,Admin,wassim@local.test,R2.08 - Outils numériques pour les statistiques descriptives,14,régression linéaire,60414,257,0,2026-03-14 14:44:45
+193,Thomas,Bernard,thomas.bernard@univ-amu.fr,Développement Web - HTML/CSS/JS,12,animation keyframe, React composant, accessibilité ARIA, CSS variable, grid layout,33490,1010,5,2026-03-12 14:12:49
+194,Maxime,Fournier,maxime.fournier@univ-amu.fr,Systèmes d'exploitation Linux,13,processus kill, vim éditeur, pipe redirection, grep recherche, crontab planifier,64391,448,0,2026-03-10 15:17:31
+195,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,15,graphique barres, visualisation données,26967,1202,5,2026-03-10 13:27:52
+196,Nicolas,Garcia,nicolas.garcia@dreamu.local,Mathematiques - Terminale,15,loi normale, permutations, matrice inverse, combinaisons, produit scalaire, déterminant, probabilité,58873,1469,10,2026-03-09 14:54:08
+197,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Stats (Copie Test IA),19,effectif cumulé, calcul somme, fréquence relative,74662,598,5,2026-03-07 19:34:42
+198,Nicolas,Garcia,nicolas.garcia@dreamu.local,Développement Web - HTML/CSS/JS,13,responsive design, SEO balises, async await, DOM manipulation, balise HTML, accessibilité ARIA,46755,1413,0,2026-03-07 18:35:30
+199,Emma,Laurent,emma.laurent@univ-amu.fr,Mathematiques - Terminale,16,matrice inverse, convergence, produit scalaire, trigonométrie, intégrale calcul, combinaisons,1368,2217,20,2026-03-07 11:17:16
+200,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,20,nuage points, intervalle confiance, test chi-deux, p-valeur, régression linéaire,32441,2244,0,2026-03-07 11:03:27
+201,Thomas,Bernard,thomas.bernard@univ-amu.fr,Développement Web - HTML/CSS/JS,13,formulaire, React composant, fetch API, webpack bundle, useState hook, responsive design, props enfant, DOM manipulation,10194,1839,20,2026-03-06 14:47:28
+202,Wassim,Admin,wassim@local.test,Mathematiques - Terminale,3,dérivée fonction, permutations, produit scalaire, probabilité, logarithme, loi normale, limite suite, espérance,9117,1266,0,2026-03-05 13:28:55
+203,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,1,memoization, arbre binaire, recherche binaire, hash table,47589,325,5,2026-03-05 08:15:16
+204,Camille,Martin,camille.martin@univ-amu.fr,Mathematiques - Terminale,11,limite suite, matrice inverse, probabilité, loi normale, combinaisons, vecteurs, dérivée fonction, permutations,16306,1729,5,2026-03-05 07:29:20
+205,Maxime,Fournier,maxime.fournier@univ-amu.fr,Réseaux Informatiques,14,Wireshark capture, VLAN switch, ping traceroute, UDP, CIDR notation,25244,285,15,2026-03-04 19:37:44
+206,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,20,schéma entité, union intersect, index performance, vue SQL, jointure SQL, insert update delete, clé étrangère, transaction ACID,58971,727,20,2026-03-04 14:25:39
+207,Léa,Dupont,lea.dupont@univ-amu.fr,Réseaux Informatiques,18,UDP, adresse IP,21201,1666,5,2026-03-04 13:50:31
+208,Morgan,Morancey,morgan.morancey@univ-amu.fr,Introduction a la Programmation Python,7,tuple,3171,624,0,2026-03-03 15:54:32
+209,Wassim,Admin,wassim@local.test,Bases de Données et SQL,11,jointure SQL, vue SQL, index performance, explain plan,19642,563,0,2026-03-03 15:35:56
+210,Camille,Martin,camille.martin@univ-amu.fr,Systèmes d'exploitation Linux,8,variable environnement, apt install, processus kill, commande ls, vim éditeur, docker container,4340,1150,0,2026-03-03 13:25:01
+211,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,1,régression linéaire, graphique barres,6272,50,0,2026-03-03 11:09:52
+212,Admin,User,admin@master.local,Algorithmes et Structures de Données,2,zizi,7330,1363,15,2026-03-02 21:24:29
+213,Léa,Dupont,lea.dupont@univ-amu.fr,Algorithmes et Structures de Données,17,BFS DFS, récursion, hash table, liste chaînée, pile queue, memoization, heap priorité,65679,1908,0,2026-03-02 16:58:04
+214,Morgan,Morancey,morgan.morancey@univ-amu.fr,Réseaux Informatiques,4,CIDR notation, ping traceroute, DHCP configuration, masque sous-réseau,56998,1451,0,2026-03-01 18:59:07
+215,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,17,variance, graphique barres, moyenne pondérée, histogramme classes, régression linéaire, test chi-deux,6519,1642,0,2026-02-28 18:59:30
+216,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Stats (Copie Test IA),14,médiane, calcul somme, effectif cumulé, fréquence relative, tableau données, exercice, cours statistiques, diagramme,41338,2041,20,2026-02-28 15:51:08
+217,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,2,fetch API, bootstrap framework, événement JS, balise HTML, React composant, props enfant, accessibilité ARIA,35154,475,0,2026-02-28 11:55:57
+218,Léa,Dupont,lea.dupont@univ-amu.fr,Algorithmes et Structures de Données,12,pile queue, memoization, heap priorité, recherche binaire, tri rapide, Big O,31472,254,5,2026-02-28 10:47:44
+219,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),15,fréquence relative,73369,2253,0,2026-02-27 08:33:18
+220,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,5,écart-type, médiane calcul, données aberrantes, corrélation, intervalle confiance,12555,1358,0,2026-02-27 06:47:02
+221,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,16,déterminant, convergence, logarithme, exponentielle, dérivée fonction,29654,817,10,2026-02-26 11:20:13
+222,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,17,héritage, exception, pandas dataframe, lambda, argument fonction, générateur, return valeur,5547,2132,0,2026-02-25 17:37:14
+223,Thomas,Bernard,thomas.bernard@univ-amu.fr,Développement Web - HTML/CSS/JS,16,accessibilité ARIA, événement JS, SEO balises,38358,574,0,2026-02-23 14:38:01
+224,Alain,Casali,alain.casali@dreamu.local,Développement Web - HTML/CSS/JS,15,responsive design, accessibilité ARIA,47953,2102,0,2026-02-23 13:59:45
+225,Thomas,Bernard,thomas.bernard@univ-amu.fr,R2.08 - Stats (Copie Test IA),16,exercice, diagramme, cours statistiques, calcul somme, tableau données, effectif cumulé,13295,1794,5,2026-02-23 10:06:48
+226,Sarah,Roux,sarah.roux@univ-amu.fr,Algorithmes et Structures de Données,10,Big O, tri rapide, heap priorité,27238,2216,0,2026-02-23 08:29:11
+227,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Stats (Copie Test IA),13,diagramme, effectif cumulé, exercice, tableau données, cours statistiques, médiane, fréquence relative, calcul somme,49444,1794,15,2026-02-23 08:09:21
+228,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,5,heap priorité, recherche binaire, récursion, arbre binaire, graphe parcours, memoization, BFS DFS, complexité algorithme,70026,1780,0,2026-02-22 11:18:41
+229,Hugo,Simon,hugo.simon@univ-amu.fr,Systèmes d'exploitation Linux,18,ssh connexion, processus kill, réseau ifconfig, partition disque, vim éditeur, systemd service, crontab planifier, docker container,21516,282,0,2026-02-22 10:33:51
+230,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,11,union intersect, clé primaire, sous-requête, procédure stockée, MariaDB MySQL, select where,32185,1910,0,2026-02-22 09:32:18
+231,Wassim,Admin,wassim@local.test,Algorithmes et Structures de Données,3,arbre binaire, memoization, pile queue, BFS DFS, Big O, tri fusion, complexité algorithme, graphe parcours,59750,707,15,2026-02-20 23:44:13
+232,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,9,crontab planifier, pipe redirection, bash script, partition disque, systemd service, docker container, ssh connexion,4788,1517,0,2026-02-20 20:51:56
+233,Chloé,Michel,chloe.michel@univ-amu.fr,Algorithmes et Structures de Données,12,récursion, pile queue, complexité algorithme, tri fusion,5401,827,15,2026-02-20 13:16:27
+234,Wassim,Admin,wassim@local.test,R2.08 - Stats (Copie Test IA),10,tableau données, médiane, fréquence relative, diagramme, exercice,58947,1745,0,2026-02-20 11:31:33
+235,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,13,pip install, compréhension liste, liste python, boucle for, syntaxe python,56372,442,0,2026-02-20 07:18:02
+236,Morgan,Morancey,morgan.morancey@univ-amu.fr,Algorithmes et Structures de Données,11,pile queue, tri rapide, tri fusion, hash table, graphe parcours, Big O, recherche binaire, BFS DFS,17646,1072,0,2026-02-19 14:12:19
+237,Maxime,Fournier,maxime.fournier@univ-amu.fr,Introduction a la Programmation Python,12,import module, return valeur, pandas dataframe, classe objet,16497,2190,10,2026-02-19 11:29:34
+238,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,12,React composant, CSS variable, balise HTML, useState hook,64266,347,15,2026-02-18 16:18:15
+239,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),13,exercice, cours statistiques, médiane, fréquence relative, diagramme,36183,2049,0,2026-02-18 07:12:30
+240,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,11,écart-type, distribution normale, test chi-deux, variance, percentile, boîte moustache,18384,645,5,2026-02-17 17:54:30
+241,Alain,Casali,alain.casali@dreamu.local,Introduction a la Programmation Python,15,syntaxe python, indentation, compréhension liste,36958,743,20,2026-02-17 15:44:33
+242,Hugo,Simon,hugo.simon@univ-amu.fr,Systèmes d'exploitation Linux,5,sed awk, ssh connexion, commande ls, réseau ifconfig, partition disque, processus kill,33359,161,0,2026-02-17 14:47:44
+243,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,20,flexbox CSS, props enfant, React composant, CSS variable, DOM manipulation, animation keyframe, async await, SEO balises,29406,1999,0,2026-02-17 13:17:08
+244,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,10,corrélation, médiane calcul, régression linéaire,61338,1988,0,2026-02-17 12:03:12
+245,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,3,complexes, combinaisons, logarithme, vecteurs, permutations, limite suite, exponentielle,66139,1416,0,2026-02-17 09:57:28
+246,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),14,fréquence relative, exercice, tableau données, médiane, diagramme, cours statistiques,31778,237,0,2026-02-16 08:40:50
+247,Hugo,Simon,hugo.simon@univ-amu.fr,Bases de Données et SQL,20,clé primaire, select where, union intersect, transaction ACID,75899,2067,0,2026-02-15 10:55:56
+248,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Stats (Copie Test IA),4,fréquence relative, tableau données,10688,77,10,2026-02-15 05:31:04
+249,Camille,Martin,camille.martin@univ-amu.fr,Réseaux Informatiques,12,adresse IP, routage OSPF, Wireshark capture, HTTP HTTPS, CIDR notation, couche OSI,8800,2189,0,2026-02-14 17:33:50
+250,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,12,corrélation, visualisation données, percentile, graphique barres, moyenne pondérée, intervalle confiance, nuage points,52608,605,5,2026-02-14 11:53:53
+251,Camille,Martin,camille.martin@univ-amu.fr,Algorithmes et Structures de Données,9,liste chaînée, complexité algorithme, heap priorité,15973,120,0,2026-02-14 10:35:42
+252,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,18,pipe redirection, docker container, apt install, commande ls,78050,717,5,2026-02-13 14:47:52
+253,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,20,variance, visualisation données,29410,258,10,2026-02-13 11:34:43
+254,Sarah,Roux,sarah.roux@univ-amu.fr,R2.08 - Stats (Copie Test IA),19,calcul somme, fréquence relative, diagramme, exercice, cours statistiques, tableau données,55219,2186,0,2026-02-12 17:55:34
+255,Maxime,Fournier,maxime.fournier@univ-amu.fr,Développement Web - HTML/CSS/JS,20,balise HTML, événement JS, responsive design, SEO balises, webpack bundle, bootstrap framework, animation keyframe,53490,502,0,2026-02-12 16:31:48
+256,Alain,Casali,alain.casali@dreamu.local,Algorithmes et Structures de Données,15,pile queue, hash table, tri rapide, BFS DFS, Big O, récursion, complexité algorithme, heap priorité,45793,1225,5,2026-02-12 15:50:45
+257,Maxime,Fournier,maxime.fournier@univ-amu.fr,Algorithmes et Structures de Données,18,BFS DFS,49613,462,0,2026-02-12 13:55:41
+258,Emma,Laurent,emma.laurent@univ-amu.fr,Bases de Données et SQL,19,procédure stockée, insert update delete, clé étrangère, union intersect, ORM Django, clé primaire, normalisation, index performance,17309,221,0,2026-02-12 13:17:05
+259,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,2,while boucle, polymorphisme, lambda,11193,1114,0,2026-02-12 13:06:14
+260,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,4,props enfant, fetch API, formulaire, async await, SEO balises, grid layout, flexbox CSS,20533,655,10,2026-02-11 14:48:57
+261,Julien,Petit,julien.petit@univ-amu.fr,Systèmes d'exploitation Linux,4,chmod permissions,3087,197,5,2026-02-09 12:37:47
+262,Hugo,Simon,hugo.simon@univ-amu.fr,Bases de Données et SQL,11,ORM Django, MariaDB MySQL, sous-requête,72600,1329,10,2026-02-08 16:19:04
+263,Nicolas,Garcia,nicolas.garcia@dreamu.local,Algorithmes et Structures de Données,20,Big O, récursion, graphe parcours, memoization, liste chaînée,36618,1627,10,2026-02-08 14:33:56
+264,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,5,docker container, vim éditeur,16493,1124,0,2026-02-08 13:30:11
+265,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,20,bash script, commande ls, grep recherche, processus kill, apt install, chmod permissions, docker container,43023,1577,0,2026-02-08 11:59:21
+266,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,17,crontab planifier, bash script, systemd service, partition disque, commande ls,30079,953,0,2026-02-08 10:14:52
+267,Alain,Casali,alain.casali@dreamu.local,Bases de Données et SQL,17,MariaDB MySQL, index performance,60390,62,5,2026-02-07 18:16:39
+268,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Stats (Copie Test IA),1,diagramme, fréquence relative, calcul somme, cours statistiques,24009,1360,10,2026-02-07 17:26:41
+269,Maxime,Fournier,maxime.fournier@univ-amu.fr,Réseaux Informatiques,3,masque sous-réseau,41644,1220,10,2026-02-06 18:34:43
+270,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,4,exponentielle, limite suite, combinaisons, espérance, déterminant, vecteurs,39863,2077,0,2026-02-06 10:29:52
+271,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,6,adresse IP, VLAN switch,41230,2256,0,2026-02-06 07:44:55
+272,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Stats (Copie Test IA),8,diagramme, médiane, effectif cumulé, tableau données, fréquence relative, calcul somme, cours statistiques,13973,1448,10,2026-02-05 21:42:42
+273,Thomas,Bernard,thomas.bernard@univ-amu.fr,Mathematiques - Terminale,18,complexes, déterminant, combinaisons,56385,1892,0,2026-02-05 14:18:56
+274,Wassim,Admin,wassim@local.test,Réseaux Informatiques,19,HTTP HTTPS, ping traceroute,53508,1710,0,2026-02-05 02:10:29
+275,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,9,socket programmation, masque sous-réseau, Wireshark capture, NAT translation, DNS résolution,42872,474,20,2026-02-04 18:11:04
+276,Morgan,Morancey,morgan.morancey@univ-amu.fr,Introduction a la Programmation Python,6,polymorphisme, tuple,53769,1989,0,2026-02-03 18:57:59
+277,Wassim,Admin,wassim@local.test,Bases de Données et SQL,14,MariaDB MySQL, sous-requête, group by,14375,996,0,2026-02-03 13:27:46
+278,Nicolas,Garcia,nicolas.garcia@dreamu.local,Mathematiques - Terminale,1,intégrale calcul, permutations, probabilité,21136,355,20,2026-02-03 11:59:30
+279,Emma,Laurent,emma.laurent@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,3,histogramme classes, test chi-deux, variance, nuage points,62521,2246,0,2026-02-02 13:25:29
+280,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,7,tableau croisé,5720,247,15,2026-02-02 13:23:45
+281,Hugo,Simon,hugo.simon@univ-amu.fr,Développement Web - HTML/CSS/JS,9,fetch API, DOM manipulation, CSS variable, accessibilité ARIA, async await, props enfant,47687,1853,0,2026-02-02 00:09:08
+282,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,4,combinaisons, vecteurs, permutations, loi normale, logarithme, produit scalaire, matrice inverse, exponentielle,75666,2224,0,2026-02-01 17:18:32
+283,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,18,chmod permissions, sed awk, crontab planifier, apt install, ssh connexion, systemd service, docker container, commande ls,61104,1262,5,2026-02-01 10:30:34
+284,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,8,HTTP HTTPS, protocole TCP, Wireshark capture, masque sous-réseau, routage OSPF,52589,2282,0,2026-02-01 01:42:05
+285,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Stats (Copie Test IA),7,diagramme, tableau données, exercice, effectif cumulé, fréquence relative,11562,1697,0,2026-01-31 18:37:53
+286,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,10,clé étrangère, insert update delete, MariaDB MySQL, transaction ACID,65691,94,0,2026-01-31 13:16:58
+287,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,9,grep recherche, variable environnement, sed awk, partition disque, apt install,16072,527,20,2026-01-31 11:26:55
+288,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,7,nuage points, quartile, médiane calcul, courbe tendance,68362,2087,0,2026-01-31 10:23:02
+289,Sarah,Roux,sarah.roux@univ-amu.fr,Réseaux Informatiques,20,ping traceroute, protocole TCP, firewall règles,26179,768,0,2026-01-31 09:03:38
+290,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,6,intervalle confiance, test chi-deux, courbe tendance, médiane calcul, visualisation données,70422,900,0,2026-01-30 17:18:53
+291,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,14,distribution normale, nuage points,77796,931,0,2026-01-29 17:05:25
+292,Wassim,Admin,wassim@local.test,R2.08 - Outils numériques pour les statistiques descriptives,2,intervalle confiance, distribution normale, médiane calcul, p-valeur,52464,2056,0,2026-01-28 23:19:44
+293,Nicolas,Garcia,nicolas.garcia@dreamu.local,Développement Web - HTML/CSS/JS,8,responsive design, async await,49106,327,5,2026-01-28 19:10:40
+294,Wassim,Admin,wassim@local.test,Algorithmes et Structures de Données,19,arbre binaire, récursion, Big O, pile queue, BFS DFS, heap priorité, liste chaînée, memoization,58249,1891,10,2026-01-27 13:18:32
+295,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,6,hash table, tri fusion, Big O, BFS DFS, pile queue, graphe parcours, liste chaînée, complexité algorithme,10198,1135,10,2026-01-27 11:56:43
+296,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,14,arbre binaire,77853,1614,5,2026-01-27 11:51:28
+297,Alain,Casali,alain.casali@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,16,variance, boîte moustache, visualisation données, quartile, tableau croisé, corrélation, p-valeur, régression linéaire,32446,1870,0,2026-01-27 09:16:50
+298,Alain,Casali,alain.casali@dreamu.local,Algorithmes et Structures de Données,18,arbre binaire, tri fusion,55048,924,10,2026-01-26 12:22:48
+299,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,14,tableau croisé, variance, médiane calcul, moyenne pondérée, test chi-deux, régression linéaire,22302,1695,0,2026-01-26 11:51:25
+300,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,3,MariaDB MySQL, sous-requête,70706,780,0,2026-01-25 15:27:37
+301,Antoine,Leroy,antoine.leroy@univ-amu.fr,Mathematiques - Terminale,4,combinaisons, probabilité,31579,1689,10,2026-01-24 18:12:55
+302,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,7,DOM manipulation, bootstrap framework,53868,1984,10,2026-01-24 17:05:44
+303,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,15,données aberrantes, test chi-deux, percentile, médiane calcul, tableau croisé, courbe tendance,64804,934,0,2026-01-24 12:13:59
+304,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,15,while boucle, fichier lecture, lambda, pip install, condition if,6382,956,0,2026-01-24 08:15:44
+305,Wassim,Admin,wassim@local.test,Bases de Données et SQL,3,sous-requête, clé primaire, insert update delete, select where, MariaDB MySQL,12719,1768,0,2026-01-23 17:19:13
+306,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,9,formulaire, React composant, événement JS, animation keyframe,12734,1476,0,2026-01-23 15:50:06
+307,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),8,médiane, effectif cumulé,17633,811,10,2026-01-23 15:31:33
+308,Chloé,Michel,chloe.michel@univ-amu.fr,Bases de Données et SQL,14,procédure stockée,11876,2035,15,2026-01-23 12:24:35
+309,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,9,sed awk, réseau ifconfig,77119,1560,10,2026-01-23 08:23:07
+310,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,6,Big O, pile queue, tri rapide, tri fusion, memoization,78064,619,5,2026-01-22 17:28:35
+311,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,3,balise HTML,20036,2234,0,2026-01-22 14:20:32
+312,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,13,formulaire, async await, animation keyframe, DOM manipulation, fetch API, grid layout, useState hook, CSS variable,68082,1139,5,2026-01-22 12:59:33
+313,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Stats (Copie Test IA),11,cours statistiques, médiane, fréquence relative,75804,518,0,2026-01-22 09:35:38
+314,Wassim,Admin,wassim@local.test,Algorithmes et Structures de Données,12,Big O, récursion, BFS DFS, pile queue, tri rapide, arbre binaire, hash table,6765,1359,0,2026-01-21 12:11:14
+315,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Stats (Copie Test IA),20,fréquence relative,56717,1065,0,2026-01-21 09:15:51
+316,Morgan,Morancey,morgan.morancey@univ-amu.fr,Bases de Données et SQL,1,schéma entité, vue SQL,55557,2007,0,2026-01-19 15:50:13
+317,Emma,Laurent,emma.laurent@univ-amu.fr,Introduction a la Programmation Python,4,variable, décorateur, while boucle, boucle for, dictionnaire, import module, syntaxe python,59463,1370,0,2026-01-18 14:18:02
+318,Antoine,Leroy,antoine.leroy@univ-amu.fr,Réseaux Informatiques,4,ping traceroute, socket programmation, routage OSPF, firewall règles, protocole TCP, adresse IP, DHCP configuration, VLAN switch,74849,2192,15,2026-01-18 10:21:40
+319,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,18,React composant, grid layout, props enfant,7463,3,5,2026-01-18 08:24:09
+320,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Stats (Copie Test IA),11,tableau données, fréquence relative, effectif cumulé, exercice, médiane, diagramme,50382,398,0,2026-01-17 12:53:35
+321,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,16,Wireshark capture, socket programmation, HTTP HTTPS, adresse IP,43100,744,0,2026-01-16 17:12:30
+322,Thomas,Bernard,thomas.bernard@univ-amu.fr,Systèmes d'exploitation Linux,3,utilisateur groupe, chmod permissions, réseau ifconfig, vim éditeur, variable environnement, apt install, docker container,14835,1016,5,2026-01-16 08:55:19
+323,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,12,événement JS, webpack bundle, fetch API, React composant, SEO balises, CSS variable,78037,115,5,2026-01-15 20:54:54
+324,Wassim,Admin,wassim@local.test,Bases de Données et SQL,4,sous-requête, transaction ACID,76771,1361,0,2026-01-15 13:39:54
+325,Nicolas,Garcia,nicolas.garcia@dreamu.local,Développement Web - HTML/CSS/JS,18,DOM manipulation, SEO balises, flexbox CSS, props enfant, bootstrap framework, grid layout, CSS variable,37789,2290,15,2026-01-14 11:28:58
+326,Sarah,Roux,sarah.roux@univ-amu.fr,Mathematiques - Terminale,14,produit scalaire, limite suite, déterminant,71682,2199,0,2026-01-14 09:40:17
+327,Camille,Martin,camille.martin@univ-amu.fr,Introduction a la Programmation Python,5,générateur, héritage, while boucle, variable, liste python,1987,671,0,2026-01-13 13:31:33
+328,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,20,DOM manipulation, responsive design, fetch API, grid layout, props enfant, CSS variable, formulaire,16366,2318,10,2026-01-13 13:10:25
+329,Camille,Martin,camille.martin@univ-amu.fr,Systèmes d'exploitation Linux,12,utilisateur groupe, commande ls, variable environnement, vim éditeur,63373,2230,10,2026-01-12 19:37:49
+330,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,14,p-valeur, percentile, écart-type, variance, données aberrantes,48376,1426,0,2026-01-12 14:12:17
+331,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,19,adresse IP, routage OSPF, VPN tunnel, protocole TCP, DHCP configuration, couche OSI, Wireshark capture, UDP,48868,1938,0,2026-01-12 12:03:04
+332,Lucie,Moreau,lucie.moreau@univ-amu.fr,Mathematiques - Terminale,15,matrice inverse, intégrale calcul, produit scalaire, complexes, limite suite, vecteurs,60606,1713,0,2026-01-12 09:21:37
+333,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,3,formulaire, useState hook,59479,1908,5,2026-01-12 08:06:37
+334,Hugo,Simon,hugo.simon@univ-amu.fr,Systèmes d'exploitation Linux,1,chmod permissions, apt install, variable environnement, sed awk, pipe redirection,73237,1147,0,2026-01-11 18:40:40
+335,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,4,bootstrap framework, SEO balises, async await, accessibilité ARIA, animation keyframe, flexbox CSS, useState hook,70881,1092,10,2026-01-11 08:39:54
+336,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,19,commande ls, bash script, volume montage, processus kill, ssh connexion, réseau ifconfig,4316,719,0,2026-01-10 19:47:59
+337,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,14,probabilité, trigonométrie, loi normale, logarithme, exponentielle, dérivée fonction, limite suite,45097,1138,0,2026-01-09 08:17:18
+338,Antoine,Leroy,antoine.leroy@univ-amu.fr,Introduction a la Programmation Python,12,compréhension liste,37863,858,0,2026-01-08 14:51:06
+339,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,19,dictionnaire, polymorphisme,73749,888,0,2026-01-08 10:27:08
+340,Morgan,Morancey,morgan.morancey@univ-amu.fr,Bases de Données et SQL,5,ORM Django, group by, clé primaire, schéma entité, index performance, normalisation,28543,263,0,2026-01-07 13:02:17
+341,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,15,données aberrantes, moyenne pondérée, percentile, médiane calcul, visualisation données,67695,1921,0,2026-01-07 12:56:03
+342,Julien,Petit,julien.petit@univ-amu.fr,Réseaux Informatiques,6,ping traceroute,57411,643,0,2026-01-07 09:01:30
+343,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),9,effectif cumulé, fréquence relative,44875,1628,5,2026-01-06 17:27:11
+344,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,9,bootstrap framework, événement JS, grid layout,50189,1340,0,2026-01-05 11:25:25
+345,Maxime,Fournier,maxime.fournier@univ-amu.fr,Introduction a la Programmation Python,1,syntaxe python, générateur,23974,1567,5,2026-01-05 08:26:59
+346,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,5,p-valeur, moyenne pondérée, tableau croisé,17892,1022,0,2026-01-04 17:09:32
+347,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,11,Wireshark capture, CIDR notation, couche OSI,72840,2225,0,2026-01-03 18:10:56
+348,Maxime,Fournier,maxime.fournier@univ-amu.fr,Mathematiques - Terminale,17,combinaisons, limite suite, convergence, produit scalaire, vecteurs,17551,1680,10,2026-01-03 12:00:56
+349,Julien,Petit,julien.petit@univ-amu.fr,Introduction a la Programmation Python,5,classe objet, polymorphisme, import module, syntaxe python, variable, tuple,39884,1814,10,2026-01-03 10:42:34
+350,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Stats (Copie Test IA),14,médiane, exercice, tableau données,29927,1318,0,2026-01-03 10:00:41
+351,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,5,grid layout, animation keyframe,31534,1194,0,2026-01-01 19:05:45
+352,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,7,distribution normale, test chi-deux, p-valeur,67903,932,0,2026-01-01 08:18:16
+353,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,1,lambda, liste python, indentation, condition if, classe objet,39865,908,0,2026-01-01 02:07:27
+354,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,6,loi normale, permutations, déterminant, espérance, trigonométrie, produit scalaire, logarithme, intégrale calcul,41268,442,0,2025-12-31 14:39:08
+355,Morgan,Morancey,morgan.morancey@univ-amu.fr,Systèmes d'exploitation Linux,2,commande ls, bash script, apt install, grep recherche, docker container, crontab planifier,14708,1779,0,2025-12-31 12:41:04
+356,Nicolas,Garcia,nicolas.garcia@dreamu.local,Bases de Données et SQL,12,MariaDB MySQL, vue SQL, trigger, sous-requête, insert update delete, group by, explain plan, ORM Django,41962,1754,0,2025-12-31 09:22:24
+357,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,1,apt install,24147,1119,5,2025-12-29 19:56:45
+358,Chloé,Michel,chloe.michel@univ-amu.fr,Introduction a la Programmation Python,13,pandas dataframe, compréhension liste, return valeur, while boucle, argument fonction, lambda,25060,478,10,2025-12-29 15:23:27
+359,Julien,Petit,julien.petit@univ-amu.fr,Algorithmes et Structures de Données,3,hash table, liste chaînée, Big O,29631,1455,0,2025-12-29 12:14:31
+360,Maxime,Fournier,maxime.fournier@univ-amu.fr,Systèmes d'exploitation Linux,8,processus kill, docker container, commande ls, réseau ifconfig, pipe redirection, chmod permissions,17370,583,5,2025-12-29 08:26:22
+361,Camille,Martin,camille.martin@univ-amu.fr,Bases de Données et SQL,4,index performance, sous-requête, normalisation, transaction ACID, clé primaire, MariaDB MySQL, explain plan,12351,645,10,2025-12-28 17:29:20
+362,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,9,return valeur, héritage, numpy array, fichier lecture, boucle for, lambda,69839,166,5,2025-12-28 07:35:44
+363,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Stats (Copie Test IA),18,diagramme, fréquence relative, cours statistiques, effectif cumulé,64802,172,10,2025-12-27 17:46:40
+364,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,12,espérance, loi normale, exponentielle, trigonométrie, système équations,60661,1032,0,2025-12-27 15:11:46
+365,Wassim,Admin,wassim@local.test,Algorithmes et Structures de Données,1,recherche binaire, memoization, graphe parcours, Big O,65778,2234,0,2025-12-27 13:43:16
+366,Lucie,Moreau,lucie.moreau@univ-amu.fr,Réseaux Informatiques,14,Wireshark capture, VPN tunnel, DNS résolution, socket programmation, couche OSI, DHCP configuration, ping traceroute,18793,352,0,2025-12-27 13:19:08
+367,Hugo,Simon,hugo.simon@univ-amu.fr,Systèmes d'exploitation Linux,1,volume montage, vim éditeur, variable environnement, réseau ifconfig, grep recherche,45953,1441,0,2025-12-27 09:53:04
+368,Chloé,Michel,chloe.michel@univ-amu.fr,Réseaux Informatiques,15,masque sous-réseau, UDP, CIDR notation, routage OSPF, HTTP HTTPS, VLAN switch, firewall règles, DNS résolution,54757,229,10,2025-12-26 14:05:09
+369,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,12,tableau croisé, écart-type, graphique barres, visualisation données, p-valeur, variance,10548,1236,0,2025-12-26 12:21:16
+370,Emma,Laurent,emma.laurent@univ-amu.fr,Introduction a la Programmation Python,17,numpy array, syntaxe python, condition if,70490,1293,10,2025-12-26 09:31:16
+371,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,19,exception, liste python, dictionnaire,19399,1631,15,2025-12-26 08:27:46
+372,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,10,espérance, matrice inverse, convergence, système équations, loi normale, complexes,22391,267,10,2025-12-25 20:26:47
+373,Léa,Dupont,lea.dupont@univ-amu.fr,Systèmes d'exploitation Linux,8,utilisateur groupe, réseau ifconfig, apt install, docker container, systemd service, bash script,37069,2285,0,2025-12-25 16:58:07
+374,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,3,pip install, condition if, décorateur, pandas dataframe, while boucle, fichier lecture, polymorphisme, liste python,50946,1363,0,2025-12-25 12:25:08
+375,Julien,Petit,julien.petit@univ-amu.fr,Introduction a la Programmation Python,4,fonction python, classe objet, générateur, compréhension liste, lambda, syntaxe python, dictionnaire,3873,847,0,2025-12-23 21:52:47
+376,Thomas,Bernard,thomas.bernard@univ-amu.fr,R2.08 - Stats (Copie Test IA),11,tableau données, exercice, effectif cumulé, calcul somme, cours statistiques,23783,1631,20,2025-12-23 16:29:37
+377,Hugo,Simon,hugo.simon@univ-amu.fr,Réseaux Informatiques,16,CIDR notation,39770,37,10,2025-12-23 14:14:11
+378,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Stats (Copie Test IA),12,exercice,55486,1458,0,2025-12-23 13:30:23
+379,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,2,régression linéaire, intervalle confiance, quartile, tableau croisé, courbe tendance,13582,715,15,2025-12-22 11:16:56
+380,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,10,dictionnaire,28186,562,10,2025-12-22 10:50:34
+381,Thomas,Bernard,thomas.bernard@univ-amu.fr,Développement Web - HTML/CSS/JS,10,animation keyframe, bootstrap framework, accessibilité ARIA, responsive design, grid layout, React composant, flexbox CSS, balise HTML,4785,1125,0,2025-12-22 09:36:08
+382,Lucie,Moreau,lucie.moreau@univ-amu.fr,Systèmes d'exploitation Linux,3,sed awk, réseau ifconfig, grep recherche, bash script, systemd service,11008,1600,15,2025-12-21 20:49:41
+383,Julien,Petit,julien.petit@univ-amu.fr,Introduction a la Programmation Python,4,variable, numpy array, condition if, décorateur, argument fonction, compréhension liste, lambda,14345,2304,10,2025-12-21 18:34:43
+384,Lucie,Moreau,lucie.moreau@univ-amu.fr,Bases de Données et SQL,9,schéma entité, MariaDB MySQL, ORM Django, clé primaire, trigger, group by, insert update delete, union intersect,30224,1983,0,2025-12-21 16:43:05
+385,Alain,Casali,alain.casali@dreamu.local,Introduction a la Programmation Python,2,numpy array, boucle for, dictionnaire, indentation, fichier lecture, lambda, syntaxe python, pip install,27180,1093,0,2025-12-21 12:37:34
+386,Lucie,Moreau,lucie.moreau@univ-amu.fr,Algorithmes et Structures de Données,10,récursion, heap priorité, BFS DFS, arbre binaire, tri rapide, memoization, complexité algorithme, recherche binaire,62436,508,5,2025-12-21 12:27:22
+387,Wassim,Admin,wassim@local.test,R2.08 - Stats (Copie Test IA),18,effectif cumulé, exercice, médiane, tableau données, fréquence relative, calcul somme, cours statistiques, diagramme,69676,1733,0,2025-12-21 09:18:04
+388,Emma,Laurent,emma.laurent@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,3,tableau croisé, boîte moustache,51597,1267,0,2025-12-20 12:42:20
+389,Emma,Laurent,emma.laurent@univ-amu.fr,Algorithmes et Structures de Données,19,tri rapide, graphe parcours, tri fusion, liste chaînée, memoization, arbre binaire,75983,2205,0,2025-12-20 11:44:44
+390,Morgan,Morancey,morgan.morancey@univ-amu.fr,Réseaux Informatiques,8,firewall règles, VLAN switch, QoS bande passante, socket programmation, Wireshark capture, CIDR notation, NAT translation, HTTP HTTPS,36492,1801,0,2025-12-20 09:10:45
+391,Maxime,Fournier,maxime.fournier@univ-amu.fr,Algorithmes et Structures de Données,7,heap priorité, BFS DFS, graphe parcours, complexité algorithme, Big O,79154,882,20,2025-12-19 16:26:45
+392,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,11,grep recherche, apt install, pipe redirection,67050,1094,10,2025-12-19 16:15:01
+393,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,9,dictionnaire, décorateur, argument fonction, syntaxe python,6602,304,5,2025-12-18 18:15:57
+394,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Stats (Copie Test IA),18,tableau données, effectif cumulé, médiane, fréquence relative, cours statistiques,52582,2261,0,2025-12-17 13:22:41
+395,Antoine,Leroy,antoine.leroy@univ-amu.fr,Introduction a la Programmation Python,3,héritage, lambda, liste python, classe objet, syntaxe python,17122,2070,0,2025-12-17 09:44:18
+396,Léa,Dupont,lea.dupont@univ-amu.fr,Réseaux Informatiques,18,masque sous-réseau, CIDR notation, NAT translation, adresse IP, Wireshark capture, firewall règles,54414,48,0,2025-12-16 13:46:09
+397,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,5,percentile, courbe tendance, test chi-deux, régression linéaire, p-valeur, variance,14500,717,0,2025-12-16 12:57:59
+398,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,11,CSS variable,31639,201,5,2025-12-14 18:23:15
+399,Emma,Laurent,emma.laurent@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,8,histogramme classes, percentile,41588,1297,5,2025-12-13 14:01:24
+400,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,12,processus kill, bash script, commande ls, grep recherche, vim éditeur,31686,1326,0,2025-12-13 06:24:16
+401,Maxime,Fournier,maxime.fournier@univ-amu.fr,Bases de Données et SQL,14,MariaDB MySQL,74955,2108,15,2025-12-13 02:04:05
+402,Emma,Laurent,emma.laurent@univ-amu.fr,Réseaux Informatiques,11,adresse IP, QoS bande passante, DHCP configuration, CIDR notation, VPN tunnel, masque sous-réseau,47895,1063,0,2025-12-12 09:55:50
+403,Thomas,Bernard,thomas.bernard@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,12,nuage points, histogramme classes,43227,807,0,2025-12-11 15:18:39
+404,Morgan,Morancey,morgan.morancey@univ-amu.fr,Introduction a la Programmation Python,19,numpy array, générateur,74585,2141,0,2025-12-11 09:30:44
+405,Hugo,Simon,hugo.simon@univ-amu.fr,Développement Web - HTML/CSS/JS,16,formulaire, useState hook, responsive design,75399,201,0,2025-12-11 07:13:03
+406,Wassim,Admin,wassim@local.test,R2.08 - Outils numériques pour les statistiques descriptives,16,écart-type, graphique barres, nuage points, courbe tendance, médiane calcul, corrélation,6206,1584,20,2025-12-08 16:11:30
+407,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,6,visualisation données, test chi-deux, quartile, percentile,6029,2251,0,2025-12-08 13:02:45
+408,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,19,graphique barres,8268,1921,0,2025-12-08 05:14:49
+409,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,18,fonction python, condition if, boucle for, import module, pandas dataframe, polymorphisme,62123,743,0,2025-12-07 17:54:34
+410,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,2,balise HTML, bootstrap framework, async await, grid layout,10057,288,0,2025-12-07 16:43:38
+411,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,12,DOM manipulation, responsive design, balise HTML, SEO balises, CSS variable, grid layout, React composant, webpack bundle,56780,1288,10,2025-12-06 10:32:11
+412,Admin,User,admin@master.local,Développement Web - HTML/CSS/JS,10,oee fais, sallut,34814,964,5,2025-12-06 10:29:28
+413,Hugo,Simon,hugo.simon@univ-amu.fr,Développement Web - HTML/CSS/JS,15,DOM manipulation, webpack bundle, responsive design, accessibilité ARIA,64717,1330,10,2025-12-05 12:11:31
+414,Camille,Martin,camille.martin@univ-amu.fr,Algorithmes et Structures de Données,10,tri fusion, récursion, BFS DFS, tri rapide, liste chaînée, arbre binaire,74399,1244,5,2025-12-04 12:02:48
+415,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,14,matrice inverse, trigonométrie, intégrale calcul, loi normale, système équations,73544,2170,0,2025-12-04 10:36:19
+416,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,10,vue SQL, procédure stockée, schéma entité, ORM Django, sous-requête,25188,614,0,2025-12-03 18:46:39
+417,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Stats (Copie Test IA),17,cours statistiques, tableau données, fréquence relative, effectif cumulé, diagramme, exercice, calcul somme, médiane,26799,1492,0,2025-12-03 08:26:51
+418,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,13,boucle for, polymorphisme, syntaxe python, indentation, héritage, numpy array, générateur,63318,401,0,2025-12-03 07:43:46
+419,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,15,événement JS, webpack bundle, SEO balises,6226,1682,0,2025-12-02 21:56:30
+420,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,16,dictionnaire, héritage, variable, polymorphisme,32297,837,0,2025-12-02 14:43:34
+421,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Stats (Copie Test IA),20,exercice, effectif cumulé,44433,382,10,2025-12-01 15:08:02
+422,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,11,responsive design, CSS variable, balise HTML, webpack bundle, bootstrap framework, fetch API,33012,27,0,2025-12-01 12:13:01
+423,Maxime,Fournier,maxime.fournier@univ-amu.fr,Algorithmes et Structures de Données,10,graphe parcours, liste chaînée, tri fusion, hash table, arbre binaire, Big O, pile queue,21548,1050,5,2025-12-01 11:53:22
+424,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,5,fichier lecture,70800,439,0,2025-11-30 10:41:05
+425,Emma,Laurent,emma.laurent@univ-amu.fr,Mathematiques - Terminale,3,trigonométrie, complexes, dérivée fonction, probabilité, intégrale calcul, matrice inverse,50657,902,5,2025-11-29 17:06:15
+426,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),14,diagramme, médiane,59548,1924,0,2025-11-29 10:30:53
+427,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Stats (Copie Test IA),15,médiane, fréquence relative, effectif cumulé, diagramme,71861,1737,0,2025-11-29 09:37:27
+428,Lucie,Moreau,lucie.moreau@univ-amu.fr,Algorithmes et Structures de Données,20,recherche binaire, Big O, hash table,22773,2367,20,2025-11-29 07:58:50
+429,Julien,Petit,julien.petit@univ-amu.fr,Réseaux Informatiques,7,ping traceroute, UDP, HTTP HTTPS, Wireshark capture, VLAN switch, DNS résolution,22111,1652,0,2025-11-27 16:49:35
+430,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,16,boîte moustache, percentile, régression linéaire, variance,76537,859,10,2025-11-27 10:13:38
+431,Camille,Martin,camille.martin@univ-amu.fr,Mathematiques - Terminale,9,convergence, probabilité, produit scalaire,70451,229,10,2025-11-25 14:03:51
+432,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,10,générateur, return valeur, variable,3750,1645,5,2025-11-25 12:56:55
+433,Nicolas,Garcia,nicolas.garcia@dreamu.local,Algorithmes et Structures de Données,19,récursion, graphe parcours, memoization,2940,1161,15,2025-11-24 12:47:49
+434,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,2,clé étrangère, procédure stockée, group by, clé primaire, jointure SQL, normalisation,21852,2343,10,2025-11-23 17:35:38
+435,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,15,limite suite, probabilité, convergence, système équations, matrice inverse,48319,666,0,2025-11-21 15:44:49
+436,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Stats (Copie Test IA),3,calcul somme, effectif cumulé, diagramme, tableau données, fréquence relative, exercice,44507,1829,0,2025-11-21 09:23:57
+437,Chloé,Michel,chloe.michel@univ-amu.fr,R2.08 - Stats (Copie Test IA),1,exercice, calcul somme, médiane, tableau données,61433,483,5,2025-11-20 17:27:48
+438,Julien,Petit,julien.petit@univ-amu.fr,Algorithmes et Structures de Données,6,liste chaînée, heap priorité, graphe parcours, pile queue,5664,2245,0,2025-11-20 15:50:53
+439,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,4,sed awk, bash script, apt install, grep recherche, utilisateur groupe, crontab planifier,2499,2292,0,2025-11-20 13:26:26
+440,Nicolas,Garcia,nicolas.garcia@dreamu.local,Introduction a la Programmation Python,9,polymorphisme, syntaxe python, tuple, fonction python,48922,958,0,2025-11-20 13:16:26
+441,Emma,Laurent,emma.laurent@univ-amu.fr,Bases de Données et SQL,7,procédure stockée, clé étrangère, normalisation, transaction ACID,31283,991,15,2025-11-20 09:18:59
+442,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Stats (Copie Test IA),9,calcul somme, médiane, tableau données, exercice, effectif cumulé,37430,862,5,2025-11-19 15:39:52
+443,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,4,histogramme classes, tableau croisé,19892,2032,0,2025-11-19 13:48:19
+444,Wassim,Admin,wassim@local.test,Bases de Données et SQL,6,group by, trigger, schéma entité, explain plan, ORM Django, sous-requête,47881,2083,0,2025-11-18 17:16:22
+445,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,6,percentile, visualisation données, graphique barres, données aberrantes,39758,1488,20,2025-11-18 13:31:36
+446,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,14,graphique barres,59968,2024,0,2025-11-18 09:27:07
+447,Thomas,Bernard,thomas.bernard@univ-amu.fr,Réseaux Informatiques,13,HTTP HTTPS, socket programmation, firewall règles, ping traceroute,48343,466,15,2025-11-17 14:16:17
+448,Maxime,Fournier,maxime.fournier@univ-amu.fr,Algorithmes et Structures de Données,4,recherche binaire,16725,841,0,2025-11-17 09:21:46
+449,Maxime,Fournier,maxime.fournier@univ-amu.fr,Mathematiques - Terminale,18,dérivée fonction,30477,364,20,2025-11-16 10:58:29
+450,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,3,useState hook, fetch API, webpack bundle, CSS variable, responsive design,67410,467,0,2025-11-15 18:18:48
+451,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,6,courbe tendance, visualisation données, moyenne pondérée, p-valeur, boîte moustache, variance, quartile, régression linéaire,51268,1529,0,2025-11-15 15:39:18
+452,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),19,cours statistiques, tableau données, effectif cumulé, diagramme,69265,1159,20,2025-11-15 10:18:25
+453,Julien,Petit,julien.petit@univ-amu.fr,Systèmes d'exploitation Linux,5,grep recherche, docker container, variable environnement,69219,2329,0,2025-11-14 18:41:07
+454,Chloé,Michel,chloe.michel@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,19,intervalle confiance, moyenne pondérée, variance, graphique barres, quartile, médiane calcul,41413,859,0,2025-11-14 10:39:19
+455,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,6,boîte moustache,4599,827,0,2025-11-14 07:59:47
+456,Nicolas,Garcia,nicolas.garcia@dreamu.local,Mathematiques - Terminale,3,logarithme, permutations, convergence, système équations, limite suite, matrice inverse, probabilité, vecteurs,37628,2227,0,2025-11-13 00:48:12
+457,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,1,décorateur, condition if, classe objet, numpy array,46744,985,0,2025-11-12 15:53:31
+458,Léa,Dupont,lea.dupont@univ-amu.fr,Développement Web - HTML/CSS/JS,12,props enfant, balise HTML, responsive design, flexbox CSS, formulaire, fetch API,35858,418,0,2025-11-12 12:37:04
+459,Nicolas,Garcia,nicolas.garcia@dreamu.local,Introduction a la Programmation Python,3,pip install, while boucle, tuple,67941,1150,0,2025-11-12 08:05:13
+460,Hugo,Simon,hugo.simon@univ-amu.fr,Bases de Données et SQL,9,explain plan, trigger, MariaDB MySQL, sous-requête, ORM Django, vue SQL, insert update delete,20417,769,0,2025-11-11 03:57:43
+461,Chloé,Michel,chloe.michel@univ-amu.fr,Réseaux Informatiques,13,protocole TCP,7551,352,0,2025-11-09 15:14:32
+462,Emma,Laurent,emma.laurent@univ-amu.fr,Réseaux Informatiques,12,couche OSI, DNS résolution, CIDR notation, DHCP configuration, protocole TCP, Wireshark capture,48351,1640,0,2025-11-09 14:41:20
+463,Emma,Laurent,emma.laurent@univ-amu.fr,Développement Web - HTML/CSS/JS,13,SEO balises, flexbox CSS, async await, balise HTML, formulaire, grid layout,45325,311,0,2025-11-09 13:36:27
+464,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,13,processus kill, crontab planifier,54706,1324,0,2025-11-09 12:16:09
+465,Chloé,Michel,chloe.michel@univ-amu.fr,Algorithmes et Structures de Données,10,tri fusion, tri rapide, Big O, graphe parcours, complexité algorithme, memoization,78483,2344,10,2025-11-08 20:40:02
+466,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,6,fichier lecture, classe objet, pip install,21575,2192,0,2025-11-08 17:28:03
+467,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,3,tri rapide, hash table, recherche binaire, tri fusion, liste chaînée, récursion, memoization,60745,1187,5,2025-11-08 14:12:06
+468,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,6,exponentielle, trigonométrie, matrice inverse, déterminant, complexes, permutations,11092,1997,0,2025-11-08 10:07:17
+469,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,17,heap priorité, recherche binaire, BFS DFS, complexité algorithme, arbre binaire, hash table, pile queue,59537,1687,0,2025-11-07 14:54:50
+470,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,11,indentation, dictionnaire, return valeur,63201,2152,0,2025-11-07 12:10:37
+471,Maxime,Fournier,maxime.fournier@univ-amu.fr,Mathematiques - Terminale,17,convergence, dérivée fonction,28942,784,20,2025-11-06 18:02:40
+472,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Stats (Copie Test IA),2,diagramme,40783,398,0,2025-11-06 17:56:25
+473,Maxime,Fournier,maxime.fournier@univ-amu.fr,Introduction a la Programmation Python,3,tuple, compréhension liste, classe objet, argument fonction,9085,1248,0,2025-11-05 02:27:26
+474,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,4,liste chaînée, tri rapide, hash table, arbre binaire,31428,1778,0,2025-11-04 17:54:41
+475,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,6,commande ls,66765,1922,10,2025-11-04 07:40:33
+476,Lucie,Moreau,lucie.moreau@univ-amu.fr,Systèmes d'exploitation Linux,12,volume montage,19891,1527,0,2025-11-03 13:31:10
+477,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,5,useState hook, bootstrap framework, async await, balise HTML, grid layout, SEO balises,77138,446,0,2025-11-03 12:05:09
+478,Alain,Casali,alain.casali@dreamu.local,Algorithmes et Structures de Données,12,heap priorité, graphe parcours, complexité algorithme, arbre binaire, Big O, récursion,70079,2055,15,2025-11-03 10:39:54
+479,Maxime,Fournier,maxime.fournier@univ-amu.fr,Bases de Données et SQL,12,jointure SQL, clé primaire, trigger,64056,1687,0,2025-11-03 08:32:30
+480,Sarah,Roux,sarah.roux@univ-amu.fr,Systèmes d'exploitation Linux,5,commande ls, variable environnement,7455,231,0,2025-11-02 22:01:35
+481,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,13,quartile,55305,1016,20,2025-11-02 17:30:31
+482,Maxime,Fournier,maxime.fournier@univ-amu.fr,Bases de Données et SQL,5,group by,36856,2374,0,2025-11-02 17:30:10
+483,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,4,arbre binaire,20058,1943,0,2025-11-02 15:04:02
+484,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,14,CIDR notation, couche OSI,44187,1315,5,2025-11-02 10:59:46
+485,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,4,crontab planifier, pipe redirection, chmod permissions,68408,626,0,2025-11-02 10:38:29
+486,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,17,boîte moustache, intervalle confiance, graphique barres, percentile, courbe tendance, quartile, p-valeur, distribution normale,56433,2244,0,2025-11-01 16:27:33
+487,Julien,Petit,julien.petit@univ-amu.fr,Introduction a la Programmation Python,9,pip install,27944,690,0,2025-11-01 13:43:20
+488,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,2,courbe tendance, écart-type, visualisation données, intervalle confiance, distribution normale,65984,2321,0,2025-11-01 10:14:07
+489,Sarah,Roux,sarah.roux@univ-amu.fr,Développement Web - HTML/CSS/JS,9,webpack bundle, async await, formulaire, responsive design, React composant,1239,1353,0,2025-10-31 04:53:37
+490,Lucie,Moreau,lucie.moreau@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,16,test chi-deux,19555,1876,15,2025-10-31 00:31:18
+491,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,11,BFS DFS, complexité algorithme, récursion, tri rapide,11562,594,0,2025-10-30 17:47:05
+492,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Stats (Copie Test IA),20,fréquence relative, exercice,30309,1709,0,2025-10-30 12:43:31
+493,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,18,événement JS, accessibilité ARIA, formulaire, balise HTML,50909,1475,10,2025-10-30 10:52:31
+494,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,13,complexes, loi normale, espérance, matrice inverse, convergence, intégrale calcul, dérivée fonction,75443,2251,10,2025-10-30 06:33:43
+495,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,18,corrélation, p-valeur, variance, données aberrantes,57547,295,5,2025-10-30 02:05:47
+496,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,9,sous-requête, clé étrangère, MariaDB MySQL, jointure SQL, clé primaire, transaction ACID, union intersect,30154,1100,0,2025-10-29 16:38:23
+497,Emma,Laurent,emma.laurent@univ-amu.fr,Mathematiques - Terminale,18,loi normale, probabilité,57151,1560,0,2025-10-29 13:53:20
+498,Chloé,Michel,chloe.michel@univ-amu.fr,Développement Web - HTML/CSS/JS,6,CSS variable, webpack bundle, grid layout,44434,2316,15,2025-10-29 08:56:15
+499,Julien,Petit,julien.petit@univ-amu.fr,Mathematiques - Terminale,10,logarithme, produit scalaire,54646,221,15,2025-10-29 08:21:25
+500,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,6,docker container, grep recherche,36255,1840,15,2025-10-28 17:23:20
+501,Chloé,Michel,chloe.michel@univ-amu.fr,Bases de Données et SQL,19,normalisation,43979,1448,0,2025-10-28 10:37:21
+502,Nicolas,Garcia,nicolas.garcia@dreamu.local,Introduction a la Programmation Python,5,boucle for, condition if, argument fonction, while boucle,67693,160,15,2025-10-28 06:52:55
+503,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,7,accessibilité ARIA, flexbox CSS, CSS variable, useState hook, DOM manipulation, responsive design, événement JS,25030,1126,0,2025-10-28 04:20:42
+504,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,5,ssh connexion, systemd service, volume montage, variable environnement,78616,11,0,2025-10-27 22:35:22
+505,Hugo,Simon,hugo.simon@univ-amu.fr,Développement Web - HTML/CSS/JS,18,événement JS, useState hook, responsive design,70356,484,0,2025-10-27 16:22:15
+506,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,6,graphique barres, test chi-deux, percentile, moyenne pondérée,51500,21,10,2025-10-27 13:33:33
+507,Thomas,Bernard,thomas.bernard@univ-amu.fr,Systèmes d'exploitation Linux,5,partition disque, processus kill, variable environnement, grep recherche,35747,1233,0,2025-10-27 06:12:40
+508,Léa,Dupont,lea.dupont@univ-amu.fr,Algorithmes et Structures de Données,19,Big O, heap priorité, memoization, liste chaînée,78870,1313,0,2025-10-26 22:17:02
+509,Antoine,Leroy,antoine.leroy@univ-amu.fr,Réseaux Informatiques,15,Wireshark capture, VPN tunnel,62175,949,15,2025-10-26 18:34:59
+510,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),13,diagramme, médiane, exercice,32066,2038,15,2025-10-26 09:57:13
+511,Alain,Casali,alain.casali@dreamu.local,Algorithmes et Structures de Données,18,tri fusion, hash table, arbre binaire, pile queue, memoization, heap priorité, graphe parcours, tri rapide,29966,610,15,2025-10-26 07:44:17
+512,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,17,BFS DFS, tri rapide, liste chaînée, arbre binaire, récursion, hash table, memoization, pile queue,34402,2247,0,2025-10-25 15:27:12
+513,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,16,boîte moustache, médiane calcul,46140,1276,5,2025-10-24 17:42:15
+514,Thomas,Bernard,thomas.bernard@univ-amu.fr,R2.08 - Stats (Copie Test IA),5,calcul somme, effectif cumulé, diagramme, médiane, fréquence relative, cours statistiques,67454,1591,0,2025-10-24 14:00:58
+515,Wassim,Admin,wassim@local.test,R2.08 - Outils numériques pour les statistiques descriptives,11,graphique barres, distribution normale, médiane calcul, courbe tendance, quartile, écart-type, variance,64236,786,0,2025-10-24 08:12:07
+516,Hugo,Simon,hugo.simon@univ-amu.fr,Bases de Données et SQL,5,ORM Django, transaction ACID, group by, schéma entité, clé primaire, clé étrangère, normalisation, explain plan,40289,43,0,2025-10-23 11:24:44
+517,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Stats (Copie Test IA),1,médiane, effectif cumulé, tableau données,19373,1993,5,2025-10-23 07:31:18
+518,Maxime,Fournier,maxime.fournier@univ-amu.fr,Réseaux Informatiques,16,protocole TCP, firewall règles,65678,945,5,2025-10-23 03:38:27
+519,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,2,p-valeur, nuage points, percentile, intervalle confiance, médiane calcul, test chi-deux,24583,1816,10,2025-10-23 00:28:17
+520,Morgan,Morancey,morgan.morancey@univ-amu.fr,Introduction a la Programmation Python,8,fonction python, boucle for, exception, indentation,37000,1988,0,2025-10-22 16:14:08
+521,Camille,Martin,camille.martin@univ-amu.fr,Développement Web - HTML/CSS/JS,11,balise HTML, webpack bundle,48677,1225,0,2025-10-22 15:00:46
+522,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),15,médiane, diagramme,4873,2373,0,2025-10-22 07:50:48
+523,Alain,Casali,alain.casali@dreamu.local,Bases de Données et SQL,2,sous-requête, ORM Django,52684,1130,0,2025-10-18 20:36:39
+524,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,11,moyenne pondérée, courbe tendance, test chi-deux, écart-type, données aberrantes,46103,1778,0,2025-10-17 18:31:08
+525,Emma,Laurent,emma.laurent@univ-amu.fr,Systèmes d'exploitation Linux,12,partition disque,52105,715,0,2025-10-17 15:54:45
+526,Sarah,Roux,sarah.roux@univ-amu.fr,Bases de Données et SQL,3,normalisation, trigger, MariaDB MySQL, group by,25007,711,5,2025-10-17 11:27:29
+527,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,2,balise HTML, formulaire, useState hook, animation keyframe, CSS variable, webpack bundle,78236,710,0,2025-10-17 10:25:46
+528,Chloé,Michel,chloe.michel@univ-amu.fr,R2.08 - Stats (Copie Test IA),10,médiane, cours statistiques, diagramme,58991,1182,5,2025-10-16 18:40:56
+529,Nicolas,Garcia,nicolas.garcia@dreamu.local,Mathematiques - Terminale,14,exponentielle, logarithme, trigonométrie, combinaisons, système équations,41971,69,0,2025-10-16 13:41:22
+530,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Stats (Copie Test IA),17,cours statistiques, fréquence relative, exercice, tableau données,70242,2257,5,2025-10-15 12:14:49
+531,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,18,visualisation données, distribution normale, quartile,5822,336,0,2025-10-15 11:36:46
+532,Morgan,Morancey,morgan.morancey@univ-amu.fr,Systèmes d'exploitation Linux,17,crontab planifier, réseau ifconfig, processus kill, apt install,574,1327,0,2025-10-14 19:40:57
+533,Lucie,Moreau,lucie.moreau@univ-amu.fr,Systèmes d'exploitation Linux,5,docker container, vim éditeur, utilisateur groupe, variable environnement, partition disque, volume montage,74586,1810,0,2025-10-14 16:51:26
+534,Antoine,Leroy,antoine.leroy@univ-amu.fr,Algorithmes et Structures de Données,15,graphe parcours, complexité algorithme, heap priorité, hash table, liste chaînée, memoization,64398,123,0,2025-10-14 11:11:01
+535,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,17,MariaDB MySQL, schéma entité, insert update delete, ORM Django, group by,61844,1117,0,2025-10-14 10:56:38
+536,Antoine,Leroy,antoine.leroy@univ-amu.fr,Introduction a la Programmation Python,7,import module, while boucle, pip install, fonction python, syntaxe python,51963,730,5,2025-10-13 08:38:42
+537,Hugo,Simon,hugo.simon@univ-amu.fr,Systèmes d'exploitation Linux,10,ssh connexion, partition disque, vim éditeur, variable environnement, apt install, grep recherche, docker container,42783,1678,5,2025-10-13 07:36:01
+538,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Stats (Copie Test IA),2,diagramme, médiane, cours statistiques, tableau données, calcul somme, effectif cumulé, exercice,1714,1222,0,2025-10-12 19:06:53
+539,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,12,flexbox CSS, SEO balises,74091,1157,0,2025-10-12 13:36:26
+540,Antoine,Leroy,antoine.leroy@univ-amu.fr,Réseaux Informatiques,17,VPN tunnel, couche OSI, UDP,13991,1661,10,2025-10-12 10:08:16
+541,Nicolas,Garcia,nicolas.garcia@dreamu.local,Introduction a la Programmation Python,13,indentation, liste python,27424,1293,0,2025-10-12 08:25:39
+542,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,20,événement JS,42209,904,5,2025-10-11 19:22:39
+543,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,2,DOM manipulation, formulaire, async await,63491,1520,0,2025-10-10 15:12:20
+544,Hugo,Simon,hugo.simon@univ-amu.fr,Réseaux Informatiques,2,CIDR notation, DHCP configuration, HTTP HTTPS, adresse IP, routage OSPF,70619,90,0,2025-10-10 10:15:28
+545,Hugo,Simon,hugo.simon@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,13,tableau croisé, distribution normale, variance, médiane calcul, quartile, p-valeur, percentile,30799,1559,0,2025-10-09 18:22:25
+546,Chloé,Michel,chloe.michel@univ-amu.fr,Réseaux Informatiques,17,DHCP configuration, HTTP HTTPS, CIDR notation,41179,1340,0,2025-10-09 17:46:15
+547,Alain,Casali,alain.casali@dreamu.local,Systèmes d'exploitation Linux,10,volume montage, vim éditeur, chmod permissions, docker container, partition disque, bash script, utilisateur groupe,30317,370,0,2025-10-09 16:33:23
+548,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Stats (Copie Test IA),14,effectif cumulé, fréquence relative,43920,2317,20,2025-10-08 18:50:12
+549,Maxime,Fournier,maxime.fournier@univ-amu.fr,Réseaux Informatiques,13,HTTP HTTPS,75257,1598,0,2025-10-08 17:52:09
+550,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,10,ORM Django, insert update delete, sous-requête, procédure stockée,22780,2286,0,2025-10-08 13:43:35
+551,Antoine,Leroy,antoine.leroy@univ-amu.fr,Réseaux Informatiques,18,VPN tunnel, HTTP HTTPS, DHCP configuration, couche OSI, socket programmation, NAT translation,10795,1907,0,2025-10-07 17:02:29
+552,Wassim,Admin,wassim@local.test,R2.08 - Stats (Copie Test IA),20,tableau données, diagramme, cours statistiques, effectif cumulé, fréquence relative, exercice,7363,1370,0,2025-10-07 14:51:33
+553,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,6,index performance, group by, vue SQL, schéma entité, normalisation,10330,2240,15,2025-10-07 11:47:54
+554,Wassim,Admin,wassim@local.test,Réseaux Informatiques,11,protocole TCP, QoS bande passante, DHCP configuration, CIDR notation, VLAN switch, NAT translation, Wireshark capture,59941,1633,0,2025-10-07 10:15:51
+555,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,19,quartile, tableau croisé, moyenne pondérée, données aberrantes,53194,925,5,2025-10-06 16:06:32
+556,Wassim,Admin,wassim@local.test,Réseaux Informatiques,12,masque sous-réseau,38127,314,5,2025-10-06 14:37:27
+557,Maxime,Fournier,maxime.fournier@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,19,boîte moustache, régression linéaire, variance, graphique barres, nuage points, tableau croisé, percentile,69346,1031,0,2025-10-06 09:10:46
+558,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Stats (Copie Test IA),3,effectif cumulé,1332,29,0,2025-10-05 15:51:23
+559,Chloé,Michel,chloe.michel@univ-amu.fr,Mathematiques - Terminale,3,limite suite, loi normale, combinaisons, permutations, vecteurs, trigonométrie, complexes, intégrale calcul,15463,1840,5,2025-10-04 13:06:52
+560,Camille,Martin,camille.martin@univ-amu.fr,Réseaux Informatiques,2,ping traceroute, protocole TCP, VLAN switch, UDP,59447,1076,0,2025-10-04 12:44:25
+561,Alain,Casali,alain.casali@dreamu.local,R2.08 - Stats (Copie Test IA),19,diagramme, tableau données, exercice, effectif cumulé, cours statistiques, calcul somme, fréquence relative,35679,1320,10,2025-10-04 10:45:24
+562,Maxime,Fournier,maxime.fournier@univ-amu.fr,Bases de Données et SQL,13,jointure SQL, insert update delete, index performance,57917,2140,5,2025-10-04 08:18:45
+563,Thomas,Bernard,thomas.bernard@univ-amu.fr,Réseaux Informatiques,4,socket programmation, Wireshark capture, UDP, DNS résolution, adresse IP, VLAN switch,39222,1703,15,2025-10-04 08:13:29
+564,Hugo,Simon,hugo.simon@univ-amu.fr,Développement Web - HTML/CSS/JS,1,SEO balises, async await, grid layout, événement JS, balise HTML, React composant, props enfant, accessibilité ARIA,27859,2012,15,2025-10-02 12:15:05
+565,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,4,ping traceroute, VPN tunnel, masque sous-réseau, NAT translation, couche OSI,27735,864,0,2025-10-02 08:43:19
+566,Sarah,Roux,sarah.roux@univ-amu.fr,Réseaux Informatiques,18,VLAN switch, HTTP HTTPS, firewall règles, adresse IP, CIDR notation, protocole TCP,50128,1651,10,2025-10-01 12:45:15
+567,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,6,dictionnaire, numpy array, return valeur, héritage, pandas dataframe, tuple,51581,1549,0,2025-10-01 12:17:17
+568,Wassim,Admin,wassim@local.test,Développement Web - HTML/CSS/JS,15,formulaire,49123,1523,0,2025-09-30 14:37:26
+569,Léa,Dupont,lea.dupont@univ-amu.fr,Réseaux Informatiques,6,Wireshark capture, DNS résolution, couche OSI, routage OSPF, QoS bande passante, CIDR notation, firewall règles, VLAN switch,71558,240,0,2025-09-29 20:48:34
+570,Wassim,Admin,wassim@local.test,Réseaux Informatiques,10,Wireshark capture, HTTP HTTPS, NAT translation, routage OSPF, VLAN switch, masque sous-réseau, ping traceroute, couche OSI,36502,230,0,2025-09-29 10:30:25
+571,Camille,Martin,camille.martin@univ-amu.fr,Bases de Données et SQL,18,union intersect, explain plan, sous-requête,23145,1929,20,2025-09-29 01:19:59
+572,Morgan,Morancey,morgan.morancey@univ-amu.fr,Bases de Données et SQL,10,procédure stockée, union intersect, clé primaire, vue SQL,60429,1295,15,2025-09-29 01:09:03
+573,Nicolas,Garcia,nicolas.garcia@dreamu.local,R2.08 - Outils numériques pour les statistiques descriptives,5,variance, corrélation, visualisation données, percentile, distribution normale,31240,409,0,2025-09-28 18:39:57
+574,Julien,Petit,julien.petit@univ-amu.fr,Bases de Données et SQL,2,procédure stockée, trigger, MariaDB MySQL, explain plan, select where, transaction ACID,76990,2376,15,2025-09-28 13:46:43
+575,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,20,webpack bundle, React composant,47900,2364,0,2025-09-28 05:18:03
+576,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,12,argument fonction, fonction python, boucle for, numpy array,8857,2216,20,2025-09-27 22:18:18
+577,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,17,nuage points, corrélation,35260,542,15,2025-09-27 18:10:53
+578,Thomas,Bernard,thomas.bernard@univ-amu.fr,Systèmes d'exploitation Linux,7,utilisateur groupe, commande ls, sed awk,57969,1193,10,2025-09-27 17:36:19
+579,Chloé,Michel,chloe.michel@univ-amu.fr,Bases de Données et SQL,10,group by,42812,1509,15,2025-09-27 16:41:56
+580,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,18,animation keyframe, async await, responsive design, fetch API, flexbox CSS,7326,1433,0,2025-09-27 16:34:10
+581,Chloé,Michel,chloe.michel@univ-amu.fr,Développement Web - HTML/CSS/JS,1,grid layout, useState hook, props enfant, async await, CSS variable, SEO balises, balise HTML,26870,1153,0,2025-09-27 10:16:40
+582,Léa,Dupont,lea.dupont@univ-amu.fr,Bases de Données et SQL,2,procédure stockée, normalisation, index performance,55450,64,0,2025-09-27 08:11:48
+583,Antoine,Leroy,antoine.leroy@univ-amu.fr,R2.08 - Stats (Copie Test IA),1,cours statistiques,78218,976,0,2025-09-25 17:08:01
+584,Hugo,Simon,hugo.simon@univ-amu.fr,Algorithmes et Structures de Données,1,BFS DFS, tri rapide, hash table, récursion, graphe parcours, complexité algorithme,48220,978,0,2025-09-25 15:23:16
+585,Wassim,Admin,wassim@local.test,Systèmes d'exploitation Linux,7,sed awk, chmod permissions, utilisateur groupe, vim éditeur, variable environnement, docker container, volume montage,42643,1948,0,2025-09-25 12:42:16
+586,Camille,Martin,camille.martin@univ-amu.fr,Introduction a la Programmation Python,17,liste python, générateur, pandas dataframe, classe objet, variable, dictionnaire,31717,1719,0,2025-09-24 21:15:45
+587,Camille,Martin,camille.martin@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,6,corrélation, courbe tendance, distribution normale, p-valeur,18749,846,10,2025-09-24 14:15:18
+588,Morgan,Morancey,morgan.morancey@univ-amu.fr,R2.08 - Stats (Copie Test IA),5,médiane, cours statistiques, diagramme, fréquence relative, tableau données, calcul somme, exercice,25390,1215,0,2025-09-23 14:06:13
+589,Léa,Dupont,lea.dupont@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,13,écart-type,50210,1544,0,2025-09-22 15:01:44
+590,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,8,lambda, générateur, décorateur, boucle for, tuple, héritage, pandas dataframe, pip install,71247,889,10,2025-09-22 08:05:47
+591,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,16,routage OSPF, socket programmation,10210,2363,5,2025-09-21 08:40:22
+592,Alain,Casali,alain.casali@dreamu.local,Réseaux Informatiques,16,adresse IP, VPN tunnel,63246,1804,0,2025-09-20 10:51:56
+593,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,3,apt install, crontab planifier, docker container, vim éditeur, bash script, grep recherche,41312,1387,0,2025-09-20 08:48:08
+594,Sarah,Roux,sarah.roux@univ-amu.fr,Bases de Données et SQL,18,index performance, ORM Django, transaction ACID, jointure SQL, clé étrangère, explain plan, vue SQL, clé primaire,68917,1531,5,2025-09-18 18:40:58
+595,Chloé,Michel,chloe.michel@univ-amu.fr,Systèmes d'exploitation Linux,13,ssh connexion, chmod permissions, sed awk,68964,474,0,2025-09-18 15:23:20
+596,Wassim,Admin,wassim@local.test,Réseaux Informatiques,19,firewall règles, DHCP configuration, protocole TCP, DNS résolution, NAT translation, masque sous-réseau, UDP,64283,2158,5,2025-09-18 09:19:13
+597,Maxime,Fournier,maxime.fournier@univ-amu.fr,Introduction a la Programmation Python,9,while boucle, import module, condition if, liste python,36908,2255,0,2025-09-17 20:38:03
+598,Camille,Martin,camille.martin@univ-amu.fr,Réseaux Informatiques,18,protocole TCP, firewall règles,48585,2220,10,2025-09-17 16:50:17
+599,Wassim,Admin,wassim@local.test,Introduction a la Programmation Python,18,héritage, numpy array, while boucle, condition if, pandas dataframe, return valeur, tuple, indentation,46921,295,0,2025-09-17 12:17:08
+600,Wassim,Admin,wassim@local.test,R2.08 - Stats (Copie Test IA),10,effectif cumulé, tableau données, calcul somme, fréquence relative, médiane, diagramme, exercice, cours statistiques,26922,179,10,2025-09-17 10:35:30
+601,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,3,combinaisons, espérance, intégrale calcul, trigonométrie, logarithme,75752,951,0,2025-09-15 19:38:41
+602,Julien,Petit,julien.petit@univ-amu.fr,R2.08 - Outils numériques pour les statistiques descriptives,13,données aberrantes, p-valeur, courbe tendance,56733,1955,0,2025-09-15 13:37:31
+603,Alain,Casali,alain.casali@dreamu.local,Mathematiques - Terminale,14,dérivée fonction, combinaisons, probabilité, produit scalaire, intégrale calcul, trigonométrie, vecteurs, matrice inverse,15792,572,0,2025-09-15 10:50:31
+604,Alain,Casali,alain.casali@dreamu.local,Mathematiques - Terminale,13,probabilité, exponentielle, intégrale calcul, déterminant, permutations, complexes, produit scalaire,51104,623,0,2025-09-15 08:02:52
+605,Hugo,Simon,hugo.simon@univ-amu.fr,Introduction a la Programmation Python,8,polymorphisme, décorateur,50936,1814,0,2025-09-14 09:20:18
+606,Maxime,Fournier,maxime.fournier@univ-amu.fr,Systèmes d'exploitation Linux,15,utilisateur groupe, commande ls, chmod permissions, ssh connexion, vim éditeur, sed awk,41729,1541,0,2025-09-14 03:22:06
+607,Julien,Petit,julien.petit@univ-amu.fr,Développement Web - HTML/CSS/JS,6,accessibilité ARIA, fetch API,59651,301,10,2025-09-13 10:25:47
+608,Antoine,Leroy,antoine.leroy@univ-amu.fr,Réseaux Informatiques,2,protocole TCP,70932,720,0,2025-09-12 13:54:27
+609,Maxime,Fournier,maxime.fournier@univ-amu.fr,Systèmes d'exploitation Linux,20,vim éditeur, processus kill, chmod permissions, ssh connexion, crontab planifier, systemd service, docker container, sed awk,46737,1165,0,2025-09-11 14:20:56
+610,Lucie,Moreau,lucie.moreau@univ-amu.fr,Introduction a la Programmation Python,12,numpy array, générateur, return valeur, condition if, syntaxe python,55567,1818,5,2025-09-09 10:13:46
+611,Hugo,Simon,hugo.simon@univ-amu.fr,Réseaux Informatiques,17,DNS résolution, DHCP configuration,60529,2296,15,2025-09-09 04:17:13
+612,Morgan,Morancey,morgan.morancey@univ-amu.fr,Développement Web - HTML/CSS/JS,14,DOM manipulation,51549,2392,15,2025-09-08 17:03:03
+613,Sarah,Roux,sarah.roux@univ-amu.fr,Réseaux Informatiques,11,CIDR notation, Wireshark capture,16059,2037,5,2025-09-07 08:37:13
+614,Hugo,Simon,hugo.simon@univ-amu.fr,Réseaux Informatiques,7,DNS résolution, socket programmation, CIDR notation, VLAN switch, routage OSPF, ping traceroute,30158,132,0,2025-09-06 19:56:34
+615,Camille,Martin,camille.martin@univ-amu.fr,Introduction a la Programmation Python,16,syntaxe python, pandas dataframe, variable, tuple,78347,290,0,2025-09-05 22:28:21
+616,Léa,Dupont,lea.dupont@univ-amu.fr,Mathematiques - Terminale,16,permutations, intégrale calcul, produit scalaire, matrice inverse,78817,1927,0,2025-09-04 17:13:08
+617,Léa,Dupont,lea.dupont@univ-amu.fr,Introduction a la Programmation Python,5,numpy array,30834,278,5,2025-09-04 09:12:16
+618,Antoine,Leroy,antoine.leroy@univ-amu.fr,Développement Web - HTML/CSS/JS,12,animation keyframe, événement JS, bootstrap framework, async await, DOM manipulation, accessibilité ARIA, fetch API, webpack bundle,30088,761,0,2025-09-03 14:15:09
+619,Morgan,Morancey,morgan.morancey@univ-amu.fr,Mathematiques - Terminale,19,combinaisons, dérivée fonction,73103,942,0,2025-09-03 07:01:24
+620,Camille,Martin,camille.martin@univ-amu.fr,Introduction a la Programmation Python,1,compréhension liste, pip install,16784,647,0,2025-09-01 23:18:00
+621,Julien,Petit,julien.petit@univ-amu.fr,Réseaux Informatiques,13,DNS résolution, couche OSI, VLAN switch, HTTP HTTPS, VPN tunnel, routage OSPF,40715,1206,0,2025-09-01 20:45:27
