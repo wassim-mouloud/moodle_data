@@ -62,20 +62,17 @@ def main() -> None:
     st.sidebar.divider()
 
     uploaded = st.sidebar.file_uploader(
-        "Fichier CSV de logs",
+        "Remplacer le CSV par défaut",
         type="csv",
-        help="Exporte la table mdl_local_tutor_ia_logs depuis MariaDB puis charge-la ici.",
+        help="Laisse vide pour utiliser le jeu de données par défaut (tutor_ia_logs_large.csv).",
     )
     st.sidebar.divider()
 
     st.title("🎓 DreamU – Tutor IA Analytics")
     st.caption("Tableau de bord des interactions étudiantes · IUT Aix-Marseille Université")
 
-    if uploaded is None:
-        st.info("Charge un fichier CSV dans la sidebar pour commencer.")
-        return
-
-    df       = load_data(uploaded)
+    source = uploaded if uploaded is not None else "tutor_ia_logs_large.csv"
+    df     = load_data(source)
     filtered = build_sidebar(df)
 
     if filtered.empty:
