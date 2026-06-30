@@ -20,7 +20,6 @@ from charts import (
     chart_heatmap,
 )
 
-# ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="DreamU – Tutor IA Analytics",
     page_icon="🎓",
@@ -28,7 +27,6 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ── Global styles ─────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
     [data-testid="stAppViewContainer"] { background-color: #0e1117; }
